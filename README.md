@@ -13,6 +13,5 @@
 1. [NIPS 2024] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406) [[code]]()
 2. [CVPR 2024] **Clip-diy: Clip dense inference yields open-vocabulary semantic segmentation for-free** [[paper]](https://arxiv.org/pdf/2309.14289) [[code]]()
 3. [ECCV 2024] **CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser)
-4. [ECCV 2024] **CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser)
 5. [NIPS 2024] **NIPS-HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/abs/2305.19406) [[code]](https://github.com/Shengcao-Cao/HASSOD)
 6. [ECCV 2024] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf) [[code]]()
