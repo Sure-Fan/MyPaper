@@ -8,6 +8,7 @@
 1. [arXiv 2024] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904) [[code]]()
 2. [CVPR 2023] **Unsupervised Object Localization: Observing the Background to Discover Objects** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf) [[code]](https://github.com/valeoai/FOUND)
 3. [CVPR 2024] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf) [[code]]()
+
 ## 分割
 ### 无监督
 1. [NIPS 2024] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406) [[code]]()
