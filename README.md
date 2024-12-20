@@ -16,4 +16,5 @@
 3. [ECCV 2024] **CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser)
 4. [NIPS 2024] **NIPS-HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/abs/2305.19406) [[code]](https://github.com/Shengcao-Cao/HASSOD)
 5. [ECCV 2024] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf) [[code]]()
-6. [ICCV 2021] **Vision Transformers for Dense Prediction** [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser)
+6. [ICCV 2021] **Vision Transformers for Dense Prediction** [[paper]](https://arxiv.org/abs/2103.13413v1) [[code]](https://github.com/isl-org/DPT?tab=readme-ov-file)
+7. [ICLR 2022] **Vision Transformers for Dense Prediction** [[paper]](https://arxiv.org/pdf/2201.03546) [[code]](https://github.com/isl-org/lang-seg)
