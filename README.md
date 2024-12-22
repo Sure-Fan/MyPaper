@@ -8,6 +8,7 @@
 5. [arXiv 2024] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
 
 ## 分割
+### Semantic Segmentation
 1. [ICCV 2021] **Vision Transformers for Dense Prediction** [[paper]](https://arxiv.org/abs/2103.13413v1) [[code]](https://github.com/isl-org/DPT?tab=readme-ov-file)
 2. [ICLR 2022] **Language-driven Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2201.03546) [[code]](https://github.com/isl-org/lang-seg)
 ### Weakly Supervised Semantic Segmentation
