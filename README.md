@@ -1,4 +1,4 @@
-# MyPaper
+# Paper and Code in Detection and Segmentation
 这是一个目标检测和语义分割的论文汇总
 ## 检测
 ### Supervised Camouflaged Object Detection
