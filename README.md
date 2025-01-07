@@ -8,14 +8,15 @@
 ### Weakly Supervised Object Discovery
 1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/wpy1999/SAT?tab=readme-ov-file)
 ### Unsupervised Object Discovery
-1. [2022 CVPR] **Self-supervised transformers for unsupervised object discovery using normalized cut** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf) [[code]](https://www.m-psi.fr/Papers/TokenCut2022/)
-2. [2023 CVPR] **Unsupervised Object Localization: Observing the Background to Discover Objects** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf) [[code]](https://github.com/valeoai/FOUND)
-3. [2023 CVPR] **Weakly-supervised Contrastive Learning for Unsupervised Object Discovery** [[paper]](https://arxiv.org/pdf/2307.03376) [[code]](https://github.com/npucvr/WSCUOD)
-4. [2023 ICCV] **MOST: multiple object local- ization with self-supervised transformers for object discovery** [[paper]]()
-5. [2023 ICCV] **SEMPART: Self-supervised Multi-resolution Partitioning of Image Semantics** [[paper]](https://arxiv.org/pdf/2309.10972)
-6. [2023 ICCV] **Box-based Refinement for Weakly Supervised and Unsupervised Localization Tasks** [[paper]](https://arxiv.org/pdf/2309.03874) [[code]](https://github.com/eyalgomel/box-based-refinement)
-7. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER)
-8. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
+1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
+2. [2022 CVPR] **Self-supervised transformers for unsupervised object discovery using normalized cut** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf) [[code]](https://www.m-psi.fr/Papers/TokenCut2022/)
+3. [2023 CVPR] **Unsupervised Object Localization: Observing the Background to Discover Objects** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf) [[code]](https://github.com/valeoai/FOUND)
+4. [2023 CVPR] **Weakly-supervised Contrastive Learning for Unsupervised Object Discovery** [[paper]](https://arxiv.org/pdf/2307.03376) [[code]](https://github.com/npucvr/WSCUOD)
+5. [2023 ICCV] **MOST: multiple object local- ization with self-supervised transformers for object discovery** [[paper]]()
+6. [2023 ICCV] **SEMPART: Self-supervised Multi-resolution Partitioning of Image Semantics** [[paper]](https://arxiv.org/pdf/2309.10972)
+7. [2023 ICCV] **Box-based Refinement for Weakly Supervised and Unsupervised Localization Tasks** [[paper]](https://arxiv.org/pdf/2309.03874) [[code]](https://github.com/eyalgomel/box-based-refinement)
+8. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER)
+9. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
 ### Open-vocabulary Object Detection
 1. [2024 CVPR] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf)
 
