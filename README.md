@@ -50,7 +50,7 @@
 2. [2022 CVPR] **Freesolo: Learning to segment objects without annotations** [[paper]](https://arxiv.org/pdf/2202.12181) [[code]](https://github.com/NVlabs/FreeSOLO)
 3. [2022 ECCV] **Extract Free Dense Labels from CLIP** [[paper]](https://arxiv.org/pdf/2112.01071) [[code]](https://github.com/chongzhou96/MaskCLIP?tab=readme-ov-file) [[note]](https://www.cnblogs.com/lipoicyclic/p/16967704.html)
 4. [2023 CVPR] **ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation** [[paper]](https://arxiv.org/abs/2212.03588) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
-5. [2024 CVPR] **Guided Slot Attention for Unsupervised Video Object Segmentation** [[paper]](https://arxiv.org/pdf/2303.08314v3) [[code]]https://github.com/Hydragon516/GSANet)
+5. [2024 CVPR] **Guided Slot Attention for Unsupervised Video Object Segmentation** [[paper]](https://arxiv.org/pdf/2303.08314v3) [[code]](https://github.com/Hydragon516/GSANet)
 6. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 7. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
 8. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
