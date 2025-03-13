@@ -19,6 +19,7 @@
 7. [2023 ICCV] **Box-based Refinement for Weakly Supervised and Unsupervised Localization Tasks** [[paper]](https://arxiv.org/pdf/2309.03874) [[code]](https://github.com/eyalgomel/box-based-refinement)
 8. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER)
 9. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
+10. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
 
 ## 分割
 ### Supervised Semantic Segmentation
@@ -52,4 +53,3 @@
 5. [2024 CVPR] **Guided Slot Attention for Unsupervised Video Object Segmentation** [[paper]](https://arxiv.org/pdf/2303.08314v3) [[code]](https://github.com/Hydragon516/GSANet)
 6. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 7. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
-8. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
