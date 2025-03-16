@@ -7,9 +7,12 @@
 3. [2024 arXiv] **PlantCamo: Plant Camouflage Detection** [[paper]](https://arxiv.org/pdf/2410.17598v1) [[code]](https://github.com/yjybuaa/PlantCamo)
 ### Open-Vocabulary Object Detection
 1. [2022 ICLR] **Open-vocabulary Object Detection via Vision and Language Knowledge Distillation** [[paper]](https://arxiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
-2. [2024 CVPR] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf)
+2. [2022 CVPR] **Grounded Language-Image Pre-training** [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
+3. [2024 CVPR] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf)
 ### Weakly Supervised Object Discovery
 1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/wpy1999/SAT?tab=readme-ov-file)
+2. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/khanrc/tcl)
+3. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
 ### Unsupervised Object Discovery
 1. [2022 CVPR] **Self-supervised transformers for unsupervised object discovery using normalized cut** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf) [[code]](https://www.m-psi.fr/Papers/TokenCut2022/)
 2. [2023 CVPR] **Unsupervised Object Localization: Observing the Background to Discover Objects** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf) [[code]](https://github.com/valeoai/FOUND)
@@ -41,10 +44,8 @@
 12. [2024 ECCV] **Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2407.08268) [[code]](https://github.com/leaves162/CLIPtrase)
 13. [2024 arXiv] **DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment** [[paper]](https://arxiv.org/pdf/2412.16334)
 ### Weakly Supervised Semantic Segmentation
-1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/khanrc/tcl)
-2. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
-3. [2024 CVPR] **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
-4. [CVPR 2024] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
+1. [2024 CVPR] **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
+2. [CVPR 2024] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
 ### Unsupervised Semantic Segmentation
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
 2. [2022 CVPR] **Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization** [[paper]](https://arxiv.org/abs/2205.07839) [[code]](https://github.com/lukemelas/deep-spectral-segmentation?tab=readme-ov-file)
