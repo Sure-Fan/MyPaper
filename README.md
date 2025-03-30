@@ -68,4 +68,6 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 10. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[Paper]](https://arxiv.org/pdf/2403.07700) [[Code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
 
 ## Dataset
-1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al download [[link]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive)
+1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download link]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive) Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages.
+2. **Iamgenet** [[download link]](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php) Note: Perhaps you need to log in first.
+3. **Mini-IamgeNet** [[download link]]() Note: If your computing power is not enough to support the Iamgenet, you can consider using Mini-IamgeNet. Iamgenet is about 138G, and Mini-IamgeNet is about only 3G.
