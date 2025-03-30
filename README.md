@@ -1,5 +1,5 @@
 # Paper in Detection and Segmentation
-This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the defferent works of **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** for **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Datasets** commonly used in Detection and Segmentation work.
+This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the defferent works of **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** in **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Dataset** commonly used in Detection and Segmentation works.
 ## Object Detection
 ### Supervised Camouflaged Object Detection
 1. [2020 CVPR] **Camouflaged Object Detection** [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) [[code]](https://github.com/DengPingFan/SINet)
@@ -66,3 +66,6 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 8. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 9. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
 10. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[Paper]](https://arxiv.org/pdf/2403.07700) [[Code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
+
+## Dataset
+1. This is a download [[link]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive) of datasets include **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al. This link can be 以中文阅读 Read in English.
