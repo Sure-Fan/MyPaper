@@ -70,6 +70,6 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 ## Dataset
 1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive) Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages.
 2. **Imagenet** [[download]](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php) Note: Perhaps you need to log in first.
-3. **Mini-ImageNet** [[download]](https://pan.baidu.com/s/1MhmzwvzV-hUUMIxKq5z4Gw)(code 5180) Note: If your computing power is not enough to support the Iamgenet, you can consider using Mini-IamgeNet. Iamgenet is about 138G, and Mini-IamgeNet is about only 3G.
+3. **Mini-ImageNet** [[download]](https://pan.baidu.com/s/1MhmzwvzV-hUUMIxKq5z4Gw)(code 5180) Note: If your computing power is not enough to support the Imagenet, you can consider using Mini-ImageNet. Imagenet is about 138G, and Mini-ImageNet is about only 3G.
 4. 
 5. **PlantCAMO** [[download]](https://pan.baidu.com/s/1I5igds19w4TqDXppwhDX9Q)(code 5180) Note: This is COD dataset of plant.
