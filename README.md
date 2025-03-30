@@ -68,5 +68,4 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 10. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[Paper]](https://arxiv.org/pdf/2403.07700) [[Code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
 
 ## Dataset
-1. This is a download [[link]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive) of datasets include **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al. Note: This html can be 以中文阅读 or Read in English.
-2. 
+1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al download [[link]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive)
