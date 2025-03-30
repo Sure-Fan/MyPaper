@@ -1,6 +1,6 @@
 # Paper in Detection and Segmentation
-这是一个目标检测和语义分割的论文汇总
-## 检测
+This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** for **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Datasets** commonly used in Detection and Segmentation work.
+## Object Detection
 ### Supervised Camouflaged Object Detection
 1. [2020 CVPR] **Camouflaged Object Detection** [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) [[code]](https://github.com/DengPingFan/SINet)
 2. [2023 AAAI] **High-resolution Iterative Feedback Network for Camouflaged Object Detection** [[paper]](https://arxiv.org/pdf/2203.11624) [[code]](https://github.com/HUuxiaobin/HitNet?tab=readme-ov-file)
@@ -9,10 +9,10 @@
 1. [2022 ICLR] **Open-vocabulary Object Detection via Vision and Language Knowledge Distillation** [[paper]](https://arxiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 2. [2022 CVPR] **Grounded Language-Image Pre-training** [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 3. [2024 CVPR] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf)
-### Weakly Supervised Object Discovery
+### Weakly Supervised Object Detection
 1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/wpy1999/SAT?tab=readme-ov-file)
 2. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
-### Unsupervised Object Discovery
+### Unsupervised Object Detection
 1. [2022 CVPR] **Self-supervised transformers for unsupervised object discovery using normalized cut** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf) [[code]](https://www.m-psi.fr/Papers/TokenCut2022/)
 2. [2023 CVPR] **Unsupervised Object Localization: Observing the Background to Discover Objects** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf) [[code]](https://github.com/valeoai/FOUND)
 3. [2023 CVPR] **Weakly-supervised Contrastive Learning for Unsupervised Object Discovery** [[paper]](https://arxiv.org/pdf/2307.03376) [[code]](https://github.com/npucvr/WSCUOD)
@@ -24,7 +24,7 @@
 9. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
 10. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
 
-## 分割
+## Semantic Segmentation
 ### Supervised Semantic Segmentation
 1. [2021 ICCV] **Vision Transformers for Dense Prediction** [[paper]](https://arxiv.org/abs/2103.13413v1) [[code]](https://github.com/isl-org/DPT?tab=readme-ov-file)
 2. [2021 ICCV] **Segmenter: Transformer for Semantic Segmentation** [[paper]](https://arxiv.org/abs/2105.05633) [[code]](https://github.com/rstrudel/segmenter)
