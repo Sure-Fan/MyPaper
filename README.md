@@ -36,8 +36,8 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 4. [2024 CVPR] **Clip-diy: Clip dense inference yields open-vocabulary semantic segmentation for-free** [[paper]](https://arxiv.org/pdf/2309.14289)
 5. [2024 CVPR] **SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2311.15537v2) [[code]](https://github.com/xb534/SED.git)
 6. [2024 CVPR] **Not All Classes Stand on Same Embeddings: Calibrating a Semantic Distance with Metric Tensor** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658112&tag=1)
-7. [2024 CVPR] **USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.pdf)
-8. [2024 CVPR] **CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation** [[Paper]](https://arxiv.org/pdf/2303.11797) [[Code]](https://github.com/cvlab-kaist/CAT-Seg)
+7. [2024 CVPR] **USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.pdf)
+8. [2024 CVPR] **CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2303.11797) [[code]](https://github.com/cvlab-kaist/CAT-Seg)
 9. [2024 ICLR] **CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction** [[paper]](https://arxiv.org/pdf/2310.01403v2) [[code]](https://github.com/wusize/CLIPSelf?tab=readme-ov-file)
 10. [2024 ECCV] **CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser)
 11. [2024 ECCV] **ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2408.04883) [[code]](https://github.com/mc-lan/ProxyCLIP)
@@ -52,9 +52,9 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 1. [2024 CVPR] **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
 2. [CVPR 2024] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
 3. [2024 CVPR] **DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.11184) [[code]](https://github.com/Wu0409/DuPL)
-4. [2024 CVPR] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[Paper]](https:https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Hunting_Attributes_Context_Prototype-Aware_Learning_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) [[Code]](https://github.com/Barrett-python/CPAL)
-5. [2024 CVPR] **Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Improving_the_Generalization_of_Segmentation_Foundation_Model_under_Distribution_Shift_CVPR_2024_paper.pdf)
-6. [2024 CVPR] **Official code for Class Tokens Infusion for Weakly Supervised Semantic Segmentation** [[Paper]](Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper) [[Code]](https://github.com/yoon307/CTI)
+4. [2024 CVPR] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https:https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Hunting_Attributes_Context_Prototype-Aware_Learning_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) [[code]](https://github.com/Barrett-python/CPAL)
+5. [2024 CVPR] **Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Improving_the_Generalization_of_Segmentation_Foundation_Model_under_Distribution_Shift_CVPR_2024_paper.pdf)
+6. [2024 CVPR] **Official code for Class Tokens Infusion for Weakly Supervised Semantic Segmentation** [[paper]](Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper) [[code]](https://github.com/yoon307/CTI)
 ### Unsupervised Semantic Segmentation
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
 2. [2022 CVPR] **Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization** [[paper]](https://arxiv.org/abs/2205.07839) [[code]](https://github.com/lukemelas/deep-spectral-segmentation?tab=readme-ov-file)
@@ -62,14 +62,14 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 4. [2022 ECCV] **Extract Free Dense Labels from CLIP** [[paper]](https://arxiv.org/pdf/2112.01071) [[code]](https://github.com/chongzhou96/MaskCLIP?tab=readme-ov-file) [[note]](https://www.cnblogs.com/lipoicyclic/p/16967704.html)
 5. [2023 CVPR] **ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation** [[paper]](https://arxiv.org/abs/2212.03588) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
 6. [2024 CVPR] **Guided Slot Attention for Unsupervised Video Object Segmentation** [[paper]](https://arxiv.org/pdf/2303.08314v3) [[code]](https://github.com/Hydragon516/GSANet)
-7. [2024 CVPR] **ReCLIP++:Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation** [[Paper]](https://arxiv.org/pdf/2408.06747) [[Code]](https://github.com/dogehhh/ReCLIP)
+7. [2024 CVPR] **ReCLIP++:Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2408.06747) [[code]](https://github.com/dogehhh/ReCLIP)
 8. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 9. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
-10. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[Paper]](https://arxiv.org/pdf/2403.07700) [[Code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
+10. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
 
 ## Dataset
-1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download link]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive) Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages.
-2. **Iamgenet** [[download link]](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php) Note: Perhaps you need to log in first.
-3. **Mini-IamgeNet** [[download link]](https://pan.baidu.com/s/1MhmzwvzV-hUUMIxKq5z4Gw)(code 5180) Note: If your computing power is not enough to support the Iamgenet, you can consider using Mini-IamgeNet. Iamgenet is about 138G, and Mini-IamgeNet is about only 3G.
-4. **PlantCAMO** [[download link]](https://pan.baidu.com/s/1I5igds19w4TqDXppwhDX9Q)(code 5180) Note: This is COD dataset of plant.
-5. 
+1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive) Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages.
+2. **Iamgenet** [[download]](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php) Note: Perhaps you need to log in first.
+3. **Mini-IamgeNet** [[download]](https://pan.baidu.com/s/1MhmzwvzV-hUUMIxKq5z4Gw)(code 5180) Note: If your computing power is not enough to support the Iamgenet, you can consider using Mini-IamgeNet. Iamgenet is about 138G, and Mini-IamgeNet is about only 3G.
+4. 
+5. **PlantCAMO** [[download]](https://pan.baidu.com/s/1I5igds19w4TqDXppwhDX9Q)(code 5180) Note: This is COD dataset of plant.
