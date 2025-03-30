@@ -1,5 +1,5 @@
 # Paper in Detection and Segmentation
-This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** for **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Datasets** commonly used in Detection and Segmentation work.
+This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the defferent works of **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** for **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Datasets** commonly used in Detection and Segmentation work.
 ## Object Detection
 ### Supervised Camouflaged Object Detection
 1. [2020 CVPR] **Camouflaged Object Detection** [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) [[code]](https://github.com/DengPingFan/SINet)
