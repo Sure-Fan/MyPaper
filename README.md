@@ -72,8 +72,8 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 10. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
 
 ## Dataset
-1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive) Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages. The conversion code applied to directory names in datasets can be found in **MaskCLIP**/tools/convert_datasets[[link]](https://github.com/chongzhou96/MaskCLIP/tree/master/tools/convert_datasets).
-2. **Imagenet** [[download]](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php) Note: Perhaps you need to log in first.
-3. **Mini-ImageNet** [[download]](https://pan.baidu.com/s/1MhmzwvzV-hUUMIxKq5z4Gw)(code 5180) Note: If your computing power is not enough to support the Imagenet, you can consider using Mini-ImageNet. Imagenet is about 138G, and Mini-ImageNet is about only 3G.
-4. **COD** [[download]](https://pan.baidu.com/s/1ePqUn5vOSZxKG596B-OcNg)(code 5180) Note: This is the original dataset of Camouflaged Object Detection (COD).
-5. **PlantCAMO** [[download]](https://pan.baidu.com/s/1I5igds19w4TqDXppwhDX9Q)(code 5180) Note: This is COD dataset of plant.
+1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive). Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages. The conversion code applied to directory names in datasets can be found in [[link]](https://github.com/chongzhou96/MaskCLIP/tree/master/tools/convert_datasets) **MaskCLIP**/tools/convert_datasets.
+2. **Imagenet** [[download]](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php). Note: Perhaps you need to log in first.
+3. **Mini-ImageNet** [[download]](https://pan.baidu.com/s/1MhmzwvzV-hUUMIxKq5z4Gw)(code 5180). Note: If your computing power is not enough to support the Imagenet, you can consider using Mini-ImageNet. Imagenet is about 138G, and Mini-ImageNet is about only 3G.
+4. **COD** [[download]](https://pan.baidu.com/s/1ePqUn5vOSZxKG596B-OcNg)(code 5180). Note: This is the original dataset of Camouflaged Object Detection (COD).
+5. **PlantCAMO** [[download]](https://pan.baidu.com/s/1I5igds19w4TqDXppwhDX9Q)(code 5180). Note: This is COD dataset of plant.
