@@ -10,7 +10,6 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 ### Open-Vocabulary Semantic Segmentation
 1. [2022 CVPR] **GroupViT: Semantic Segmentation Emerges from Text Supervision** [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT?tab=readme-ov-file)
 2. [2023 CVPR] **Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning** [[paper]](https://arxiv.org/pdf/2212.04994)
-3. [2023 CVPR] **Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs** [[paper]](https://arxiv.org/pdf/2212.00785) [[code]](https://github.com/khanrc/tcl)
 4. [2023 CVPR] **Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs** [[paper]](https://arxiv.org/pdf/2212.00785) [[code]](https://github.com/khanrc/tcl?tab=readme-ov-file)
 5. [2023 ICML] **SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2211.14813) [[code]](https://github.com/ArrowLuo/SegCLIP?tab=readme-ov-file)
 6. [2023 ICML] **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers** [[paper]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM?tab=readme-ov-file)
