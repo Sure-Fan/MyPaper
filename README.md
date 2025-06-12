@@ -38,7 +38,9 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 28. [2025 CVPR] **LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS)
 29. [2025 CVPR] **Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.21780)
 30. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference** [[paper]](https://arxiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP?tab=readme-ov-file)
-31. [2025 ICLR] **Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion** [[paper]](https://arxiv.org/pdf/2502.04263) [[code]](https://github.com/miccunifi/Cross-the-Gap?tab=readme-ov-file) 
+31. [2025 CVPR] **Your ViT is Secretly an Image Segmentation Model** [[paper]](https://arxiv.org/pdf/2503.19108) [[code]](https://github.com/tue-mps/eomt)
+32. [2025 CVPR] **Exploring Simple Open-Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_Exploring_Simple_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)
+33. [2025 ICLR] **Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion** [[paper]](https://arxiv.org/pdf/2502.04263) [[code]](https://github.com/miccunifi/Cross-the-Gap?tab=readme-ov-file) 
 ### Weakly Supervised Semantic Segmentation
 1. [2024 CVPR] **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
 2. [CVPR 2024] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
