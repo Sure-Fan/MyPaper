@@ -67,6 +67,7 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 4. [2024 CVPR] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https:https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Hunting_Attributes_Context_Prototype-Aware_Learning_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) [[code]](https://github.com/Barrett-python/CPAL)
 5. [2024 CVPR] **Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Improving_the_Generalization_of_Segmentation_Foundation_Model_under_Distribution_Shift_CVPR_2024_paper.pdf)
 6. [2024 CVPR] **Official code for Class Tokens Infusion for Weakly Supervised Semantic Segmentation** [[paper]](Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper) [[code]](https://github.com/yoon307/CTI)
+7. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
 ### Unsupervised Semantic Segmentation
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
 2. [2022 CVPR] **Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization** [[paper]](https://arxiv.org/abs/2205.07839) [[code]](https://github.com/lukemelas/deep-spectral-segmentation?tab=readme-ov-file)
@@ -106,6 +107,7 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 ## Classification based on CLIP
 1. [2024 NIPS] **Boosting Vision-Language Models with Transduction** [[paper]](https://arxiv.org/abs/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
 2. [2025 CVPR] **Realistic Test-Time Adaptation of Vision-Language Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf) [[code]](https://github.com/MaxZanella/StatA)
+3. [2025 CVPR] **COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation** [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](https://github.com/hf618/COSMIC)
 
 ## Dataset
 1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive). Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages. Conversion codes applied to names in datasets can be found in [[MaskCLIP]](https://github.com/chongzhou96/MaskCLIP/tree/master/tools/convert_datasets).
