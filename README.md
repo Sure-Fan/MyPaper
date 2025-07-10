@@ -16,8 +16,9 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 5. [2024 ICCV] **Zero-guidance Segmentation Using Zero Segment Labels** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Rewatbowornwong_Zero-guidance_Segmentation_Using_Zero_Segment_Labels_ICCV_2023_paper.pdf) [[code]](https://github.com/nessessence/ZeroGuidanceSeg)
 6. [2024 NIPS] **DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1867748a011e1425b924ec72a4066b62-Paper-Conference.pdf) [[code]](https://github.com/PaulCouairon/DiffCut)
 7. [2025 ICLR] **Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model** [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP?tab=readme-ov-file)
-#### Zero-Shot
+#### Few-Shot
 1. [2025 CVPR] **Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation** [[https://openaccess.thecvf.com/content/CVPR2025/papers/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.pdf]]
+2. [2025 CVPR] **Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Few-Shot_Recognition_via_Stage-Wise_Retrieval-Augmented_Finetuning_CVPR_2025_paper.pdf) [[code]](https://tian1327.github.io/SWAT)
 #### Training-Free
 1. [2024 CVPR] **Clip-diy: Clip dense inference yields open-vocabulary semantic segmentation for-free** [[paper]](https://arxiv.org/pdf/2309.14289)
 2. [2024 CVPR] **Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10655445&tag=1) [[code]](https://github.com/aimagelab/freeda)
@@ -96,8 +97,7 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 1. [2022 ICLR] **Open-vocabulary Object Detection via Vision and Language Knowledge Distillation** [[paper]](https://arxiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 2. [2022 CVPR] **Grounded Language-Image Pre-training** [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 3. [2024 CVPR] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf)
-4. [2025 CVPR] **Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Few-Shot_Recognition_via_Stage-Wise_Retrieval-Augmented_Finetuning_CVPR_2025_paper.pdf) [[code]](https://tian1327.github.io/SWAT)
-5. [2024 ECCV] **Grounding dino: Marrying dino with grounded pre-training for open-set object detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file) [[note]](https://blog.csdn.net/xhtchina/article/details/147641112)
+4. [2024 ECCV] **Grounding dino: Marrying dino with grounded pre-training for open-set object detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file) [[note]](https://blog.csdn.net/xhtchina/article/details/147641112)
 ### Weakly Supervised Object Detection
 1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/wpy1999/SAT?tab=readme-ov-file)
 2. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
