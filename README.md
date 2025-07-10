@@ -2,7 +2,7 @@
 This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the defferent works of **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** in **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Dataset** commonly used in Detection and Segmentation works.
 
 # Content
-[[Supervised Semantic Segmentation](#Supervised Semantic Segmentation)] [[Training Free](#Training_Free)] [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
+[[Supervised Semantic Segmentation](#Training_Free)] [[Training Free](#Training_Free)] [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
 -----------------------------------------------------------------------------------------------
 # Supervised Semantic Segmentation
 <a name="Supervised Semantic Segmentation"></a>
