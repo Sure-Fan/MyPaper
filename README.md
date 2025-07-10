@@ -1,8 +1,11 @@
 # Paper in Detection and Segmentation
 This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the defferent works of **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** in **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Dataset** commonly used in Detection and Segmentation works.
 
-## Semantic Segmentation
-### Supervised Semantic Segmentation
+# Content
+[[Supervised Semantic Segmentation](#Supervised Semantic Segmentation)] [[Training Free](#Training_Free)] [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
+
+# Supervised Semantic Segmentation
+<a name="Supervised Semantic Segmentation"></a>
 1. [2021 ICCV] **Vision Transformers for Dense Prediction** [[paper]](https://arxiv.org/abs/2103.13413v1) [[code]](https://github.com/isl-org/DPT?tab=readme-ov-file)
 2. [2021 ICCV] **Segmenter: Transformer for Semantic Segmentation** [[paper]](https://arxiv.org/abs/2105.05633) [[code]](https://github.com/rstrudel/segmenter)
 3. [2022 ICLR] **Language-driven Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2201.03546) [[code]](https://github.com/isl-org/lang-seg)
