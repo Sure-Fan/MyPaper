@@ -1,13 +1,17 @@
-# Paper in Detection and Segmentation
-This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the defferent works of **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** in **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Dataset** commonly used in Detection and Segmentation works.
-
 # Content
-## [[Supervised Semantic Segmentation](#Supervised_Semantic_Segmentation)]
-## [[Zero-Shot Open-Vocabulary Semantic Segmentation](#ZSOVSS)]
-## [[Few-Shot Open-Vocabulary Semantic Segmentation](#FSOVSS)]
-[[Training-Free Open-Vocabulary Semantic Segmentation](#Training-Free_OVSS)] [[Training Open-Vocabulary Semantic Segmentation](#Training_OVSS)]
-[[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentationn)] [[Unsupervised Supervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
-[[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
+1. [[Supervised Semantic Segmentation](#Supervised_Semantic_Segmentation)]
+2. [[Zero-Shot Open-Vocabulary Semantic Segmentation](#ZSOVSS)]
+3. [[Few-Shot Open-Vocabulary Semantic Segmentation](#FSOVSS)]
+4. [[Training-Free Open-Vocabulary Semantic Segmentation](#Training-Free_OVSS)]
+5. [[Training Open-Vocabulary Semantic Segmentation](#Training_OVSS)]
+6. [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentationn)]
+7. [[Unsupervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
+8. [[Supervised Camouflaged Object Detection](#Supervised_Camouflaged_Object_Detection)]
+9. [Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
+10. [Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
+11. [Unsupervised Object Detection](#Unsupervised_Object_Detection)]
+12. [CLIP Classification](#CLIP_Classification)]
+13. [Dataset](#Dataset)]
 -----------------------------------------------------------------------------------------------
 # Supervised Semantic Segmentation
 <a name="Supervised_Semantic_Segmentation"></a>
@@ -87,7 +91,7 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 5. [2024 CVPR] **Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Improving_the_Generalization_of_Segmentation_Foundation_Model_under_Distribution_Shift_CVPR_2024_paper.pdf)
 6. [2024 CVPR] **Official code for Class Tokens Infusion for Weakly Supervised Semantic Segmentation** [[paper]](Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper) [[code]](https://github.com/yoon307/CTI)
 7. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
-### Unsupervised Semantic Segmentation
+# Unsupervised Semantic Segmentation
 <a name="Unsupervised_Semantic_Segmentation"></a>
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
 2. [2022 CVPR] **Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization** [[paper]](https://arxiv.org/abs/2205.07839) [[code]](https://github.com/lukemelas/deep-spectral-segmentation?tab=readme-ov-file)
@@ -100,20 +104,23 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 9. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
 10. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER?tab=readme-ov-file)
 
-## Object Detection
-### Supervised Camouflaged Object Detection
+# Supervised Camouflaged Object Detection
+<a name="Supervised_Camouflaged_Object_Detection"></a>
 1. [2020 CVPR] **Camouflaged Object Detection** [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) [[code]](https://github.com/DengPingFan/SINet)
 2. [2023 AAAI] **High-resolution Iterative Feedback Network for Camouflaged Object Detection** [[paper]](https://arxiv.org/pdf/2203.11624) [[code]](https://github.com/HUuxiaobin/HitNet?tab=readme-ov-file)
 3. [2024 arXiv] **PlantCamo: Plant Camouflage Detection** [[paper]](https://arxiv.org/pdf/2410.17598v1) [[code]](https://github.com/yjybuaa/PlantCamo)
-### Open-Vocabulary Object Detection
+# Open-Vocabulary Object Detection
+<a name="Open-Vocabulary_Object_Detection"></a>
 1. [2022 ICLR] **Open-vocabulary Object Detection via Vision and Language Knowledge Distillation** [[paper]](https://arxiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 2. [2022 CVPR] **Grounded Language-Image Pre-training** [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 3. [2024 CVPR] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf)
 4. [2024 ECCV] **Grounding dino: Marrying dino with grounded pre-training for open-set object detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file) [[note]](https://blog.csdn.net/xhtchina/article/details/147641112)
-### Weakly Supervised Object Detection
+# Weakly Supervised Object Detection
+<a name="Weakly_Supervised_Object_Detection"></a>
 1. [2023 ICCV] **Spatial-Aware Token for Weakly Supervised Object Localization** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) [[code]](https://github.com/wpy1999/SAT?tab=readme-ov-file)
 2. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
-### Unsupervised Object Detection
+# Unsupervised Object Detection
+<a name="Unsupervised_Object_Detection"></a>
 1. [2022 CVPR] **Self-supervised transformers for unsupervised object discovery using normalized cut** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf) [[code]](https://www.m-psi.fr/Papers/TokenCut2022/)
 2. [2023 CVPR] **Unsupervised Object Localization: Observing the Background to Discover Objects** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf) [[code]](https://github.com/valeoai/FOUND)
 3. [2023 CVPR] **Weakly-supervised Contrastive Learning for Unsupervised Object Discovery** [[paper]](https://arxiv.org/pdf/2307.03376) [[code]](https://github.com/npucvr/WSCUOD)
@@ -125,12 +132,13 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 9. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
 10. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
 
-## Classification based on CLIP
+# CLIP Classification
+<a name="CLIP_Classification"></a>
 1. [2024 NIPS] **Boosting Vision-Language Models with Transduction** [[paper]](https://arxiv.org/abs/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
 2. [2025 CVPR] **Realistic Test-Time Adaptation of Vision-Language Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf) [[code]](https://github.com/MaxZanella/StatA)
 3. [2025 CVPR] **COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation** [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](https://github.com/hf618/COSMIC)
 
-## Dataset
+# Dataset
 1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive). Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages. Conversion codes applied to names in datasets can be found in [[MaskCLIP]](https://github.com/chongzhou96/MaskCLIP/tree/master/tools/convert_datasets).
 2. **Imagenet** [[download]](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php). Note: Perhaps you need to **log in** first.
 3. **Mini-ImageNet** [[download]](https://pan.baidu.com/s/1MhmzwvzV-hUUMIxKq5z4Gw)(Num 5180). Note: If computing power is not enough to support the Imagenet, you can consider using Mini-ImageNet. Imagenet is about 138G, and Mini-ImageNet is about only 3G.
