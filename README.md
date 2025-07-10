@@ -3,7 +3,7 @@ This is a collection of papers on **Object Detection** and **Semantic Segmentati
 
 # Content
 [[Supervised Semantic Segmentation](#Supervised Semantic Segmentation)] [[Training Free](#Training_Free)] [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)] [[Classical segmentation](#Classical_Segmentation)] [[Classical detection](#Model-Classical_detection)] [[Backbone](#Backbone)] [[CLIP](#CLIP)] [[Open vocabulary segmentation](#open_segmentation)] [[Open vocabulary detection](#open_detection)] [[Other](#Other)]
-
+-----------------------------------------------------------------------------------------------
 # Supervised Semantic Segmentation
 <a name="Supervised Semantic Segmentation"></a>
 1. [2021 ICCV] **Vision Transformers for Dense Prediction** [[paper]](https://arxiv.org/abs/2103.13413v1) [[code]](https://github.com/isl-org/DPT?tab=readme-ov-file)
