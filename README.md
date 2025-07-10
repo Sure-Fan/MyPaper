@@ -7,11 +7,11 @@
 6. [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentationn)]
 7. [[Unsupervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
 8. [[Supervised Camouflaged Object Detection](#Supervised_Camouflaged_Object_Detection)]
-9. [Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
-10. [Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
-11. [Unsupervised Object Detection](#Unsupervised_Object_Detection)]
-12. [CLIP Classification](#CLIP_Classification)]
-13. [Dataset](#Dataset)]
+9. [[Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
+10. [[Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
+11. [[Unsupervised Object Detection](#Unsupervised_Object_Detection)]
+12. [[CLIP Classification](#CLIP_Classification)]
+13. [[Dataset](#Dataset)]
 -----------------------------------------------------------------------------------------------
 # Supervised Semantic Segmentation
 <a name="Supervised_Semantic_Segmentation"></a>
