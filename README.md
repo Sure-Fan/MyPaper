@@ -10,8 +10,8 @@
 9. [[Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
 10. [[Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
 11. [[Unsupervised Object Detection](#Unsupervised_Object_Detection)]
-. [[CLIP Classification](#CLIP_Classification)]
-. [[Dataset](#Dataset)]
+12. [[CLIP Classification](#CLIP_Classification)]
+13. [[Dataset](#Dataset)]
 -----------------------------------------------------------------------------------------------
 # Supervised Semantic Segmentation
 <a name="Supervised_Semantic_Segmentation"></a>
