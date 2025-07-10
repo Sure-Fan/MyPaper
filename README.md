@@ -2,7 +2,8 @@
 This is a collection of papers on **Object Detection** and **Semantic Segmentation**. We collected the defferent works of **Supervised**, **Weakly Supervised**, **Unsupervised** and **Open-Vocabulary** in **Object Detection** and **Semantic Segmentation**. Further more, we also provide download links to **Dataset** commonly used in Detection and Segmentation works.
 
 # Content
-[[Supervised Semantic Segmentation](#Supervised_Semantic_Segmentation)]
+1. [[Supervised Semantic Segmentation](#Supervised_Semantic_Segmentation)]
+2. [[Zero-Shot Open-Vocabulary Semantic Segmentation](#ZSOVSS)]
 [[Zero-Shot Open-Vocabulary Semantic Segmentation](#ZSOVSS)] [[Few-Shot Open-Vocabulary Semantic Segmentation](#FSOVSS)]
 [[Training-Free Open-Vocabulary Semantic Segmentation](#Training-Free_OVSS)] [[Training Open-Vocabulary Semantic Segmentation](#Training_OVSS)]
 [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentationn)] [[Unsupervised Supervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
