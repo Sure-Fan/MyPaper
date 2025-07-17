@@ -150,7 +150,7 @@
 3. [2025 CVPR] **COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation** [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](https://github.com/hf618/COSMIC)
 4. [2025 CVPR] **Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Few-Shot_Recognition_via_Stage-Wise_Retrieval-Augmented_Finetuning_CVPR_2025_paper.pdf) [[code]](https://tian1327.github.io/SWAT)
 5. [2025 ICCV] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation** [[paper]](https://arxiv.org/pdf/2410.14729)
-6. [2025 ICLR]  **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
+6. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
 
 # Diffusion Model
 <a name="Diffusion_Model"></a>
