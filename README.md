@@ -53,21 +53,22 @@
 18. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
 19. [2025 ICCV] **CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.10086) [[code]](https://github.com/zdk258/CorrCLIP)
 20. [2025 ICCV] **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** [[paper]](https://arxiv.org/pdf/2505.20469) [[code]](https://epsilontl.github.io/CCL-LGS/)
-21. [2025 ICCV] **Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**
-22. [2025 ICCV] **Training-Free Class Purification for Open-Vocabulary Semantic Segmentation**
-23. [2025 ICCV] **DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation**
-24. [2025 ICCV] **Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild**
-25. [2025 ICCV] **Feature Purification Matters: Suppressing Outlier Propagation for Training-Free Open-Vocabulary Semantic Segmentation**
-26. [2025 ICCV] **Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation**
-27. [2025 ICCV] **Test-Time Retrieval-Augmented Adaptation for Vision-Language Models**
-28. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**
-29. [2025 ICCV] **Text-guided Visual Prompt DINO for Generic Segmentation**
-30. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**
-31. [2025 arXiv] **Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP?tab=readme-ov-file)
-32. [2025 arXiv] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP?tab=readme-ov-file)
-33. [2025 arXiv] **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/abs/2504.10487) [[code]](https://github.com/yasserben/FLOSS)
-34. [2025 arXiv] **TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models** [[paper]](https://arxiv.org/pdf/2505.23769) [[code]](https://github.com/avaxiao/TextRegion)
-35. [2025 arXiv] **A Survey on Training-free Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.22209)
+21. [2025 ICCV] **Auto-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2312.04539)
+22. [2025 ICCV] **Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**
+23. [2025 ICCV] **Training-Free Class Purification for Open-Vocabulary Semantic Segmentation**
+24. [2025 ICCV] **DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation**
+25. [2025 ICCV] **Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild**
+26. [2025 ICCV] **Feature Purification Matters: Suppressing Outlier Propagation for Training-Free Open-Vocabulary Semantic Segmentation**
+27. [2025 ICCV] **Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation**
+28. [2025 ICCV] **Test-Time Retrieval-Augmented Adaptation for Vision-Language Models**
+29. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**
+30. [2025 ICCV] **Text-guided Visual Prompt DINO for Generic Segmentation**
+31. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**
+32. [2025 arXiv] **Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP?tab=readme-ov-file)
+33. [2025 arXiv] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP?tab=readme-ov-file)
+34. [2025 arXiv] **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/abs/2504.10487) [[code]](https://github.com/yasserben/FLOSS)
+35. [2025 arXiv] **TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models** [[paper]](https://arxiv.org/pdf/2505.23769) [[code]](https://github.com/avaxiao/TextRegion)
+36. [2025 arXiv] **A Survey on Training-free Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.22209)
 # Training Open-Vocabulary Semantic Segmentation
 <a name="Training_OVSS"></a>
 1. [2022 CVPR] **GroupViT: Semantic Segmentation Emerges from Text Supervision** [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT?tab=readme-ov-file)
@@ -146,8 +147,9 @@
 6. [2023 ICCV] **SEMPART: Self-supervised Multi-resolution Partitioning of Image Semantics** [[paper]](https://arxiv.org/pdf/2309.10972)
 7. [2023 ICCV] **Box-based Refinement for Weakly Supervised and Unsupervised Localization Tasks** [[paper]](https://arxiv.org/pdf/2309.03874) [[code]](https://github.com/eyalgomel/box-based-refinement)
 8. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER)
-9. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
-10. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
+9. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
+10. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
+11. [2025 ICCV] **Ensemble Foreground Management for Unsupervised Object Discovery**
 
 # CLIP Classification
 <a name="CLIP_Classification"></a>
