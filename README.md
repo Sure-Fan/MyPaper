@@ -31,6 +31,7 @@
 <a name="FSOVSS"></a>
 1. [2025 CVPR] **Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.pdf)
 2. [2025 ICCV] **Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2506.22979) [[code]](https://github.com/jliu4ai/FewCLIP)
+3. [2025 MICCAI] **Realistic Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2506.17500) [[code]](https://github.com/jusiro/SS-Text)
 # Training-Free Open-Vocabulary Semantic Segmentation
 <a name="Training-Free_OVSS"></a>
 1. [2024 CVPR] **Clip-diy: Clip dense inference yields open-vocabulary semantic segmentation for-free** [[paper]](https://arxiv.org/pdf/2309.14289)
