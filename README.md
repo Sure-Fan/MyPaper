@@ -25,38 +25,37 @@
 6. [2024 ECCV] **Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2404.08181) [[code]](https://github.com/sinahmr/NACLIP)
 7. [2024 ECCV] **Proxyclip: Proxy attention improves clip for open-vocabulary segmentation** [[paper]](https://arxiv.org/pdf/2408.04883) [[code]](https://github.com/mc-lan/ProxyCLIP?tab=readme-ov-file) 
 8. [2024 ECCV] **Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2407.08268) [[code]](https://github.com/leaves162/CLIPtrase)
-9. [2024 ICLR] **A Hard-to-Beat Baseline for Training-free CLIP-Based Adaptation** [[paper]](https://openreview.net/forum?id=Js5PJPHDyY) [[code]](https://github.com/mrflogs/ICLR24)
-10. [2024 arXiv] **CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13836) [[code]](https://github.com/linsun449/cliper.code?tab=readme-ov-file)
-11. [2025 CVPR] **LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS)
-12. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference** [[paper]](https://arxiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP?tab=readme-ov-file)
-13. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/MICV-yonsei/CASS)
-14. [2025 CVPR] **Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Cheb-GR_Rethinking_K-nearest_Neighbor_Search_in_Re-ranking_for_Person_Re-identification_CVPR_2025_paper.pdf) [[code]](https://github.com/Jinxi-Yang-WHU/Fast-GCR.git) [[note]](本文提到的很多re-ranking的技术就是对直接计算的相似度矩阵进行更新，前面公式搞了一大堆，最后就是一个特征传播。)
-15. [2025 CVPR] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements** [[paper]](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf) [[code]](https://github.com/m-arda-aydn/ITACLIP)
-16. [2025 CVPR] **Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sidhu_Search_and_Detect_Training-Free_Long_Tail_Object_Detection_via_Web-Image_CVPR_2025_paper.pdf) [[code]](https://github.com/Mankeerat/SearchDet)
-17. [2025 ICCV] **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scene** [[paper]](https://arxiv.org/pdf/2410.14462#page=17.85) [[code]](https://github.com/naver/ludvig)
-18. [2025 ICCV] **WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images** [[paper]](https://arxiv.org/pdf/2503.08407)
-19. [2025 ICCV] **Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.09219) [[code]](https://github.com/YuHengsss/Trident)
-20. [2025 ICCV] **E-SAM: Training-Free Segment Every Entity Model** [[paper]](https://arxiv.org/pdf/2503.12094)
-21. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
-22. [2025 ICCV] **CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.10086) [[code]](https://github.com/zdk258/CorrCLIP)
-23. [2025 ICCV] **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** [[paper]](https://arxiv.org/pdf/2505.20469) [[code]](https://epsilontl.github.io/CCL-LGS/)
-24. [2025 ICCV] **Auto-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2312.04539)
-25. [2025 ICCV] **Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**
-26. [2025 ICCV] **Training-Free Class Purification for Open-Vocabulary Semantic Segmentation**
-27. [2025 ICCV] **DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation**
-28. [2025 ICCV] **Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild**
-29. [2025 ICCV] **Feature Purification Matters: Suppressing Outlier Propagation for Training-Free Open-Vocabulary Semantic Segmentation**
-30. [2025 ICCV] **Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation**
-31. [2025 ICCV] **Test-Time Retrieval-Augmented Adaptation for Vision-Language Models**
-32. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**
-33. [2025 ICCV] **Text-guided Visual Prompt DINO for Generic Segmentation**
-34. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**
-35. [2025 ICCV] **Images as Noisy Labels: Unleashing the Potential of the Diffusion Model for Open-Vocabulary Semantic Segmentation**
-36. [2025 arXiv] **Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP?tab=readme-ov-file)
-37. [2025 arXiv] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP?tab=readme-ov-file)
-38. [2025 arXiv] **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/abs/2504.10487) [[code]](https://github.com/yasserben/FLOSS)
-39. [2025 arXiv] **TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models** [[paper]](https://arxiv.org/pdf/2505.23769) [[code]](https://github.com/avaxiao/TextRegion)
-40. [2025 arXiv] **A Survey on Training-free Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.22209)
+9. [2024 arXiv] **CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13836) [[code]](https://github.com/linsun449/cliper.code?tab=readme-ov-file)
+10. [2025 CVPR] **LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS)
+11. [2025 CVPR] **ResCLIP: Residual Attention for Training-free Dense Vision-language Inference** [[paper]](https://arxiv.org/pdf/2411.15851) [[code]](https://github.com/yvhangyang/ResCLIP?tab=readme-ov-file)
+12. [2025 CVPR] **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Distilling_Spectral_Graph_for_Object-Context_Aware_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/MICV-yonsei/CASS)
+13. [2025 CVPR] **Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Cheb-GR_Rethinking_K-nearest_Neighbor_Search_in_Re-ranking_for_Person_Re-identification_CVPR_2025_paper.pdf) [[code]](https://github.com/Jinxi-Yang-WHU/Fast-GCR.git) [[note]](本文提到的很多re-ranking的技术就是对直接计算的相似度矩阵进行更新，前面公式搞了一大堆，最后就是一个特征传播。)
+14. [2025 CVPR] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements** [[paper]](https://openaccess.thecvf.com/content/CVPR2025W/PixFoundation/papers/Aydin_ITACLIP_Boosting_Training-Free_Semantic_Segmentation_with_Image_Text_and_Architectural_CVPRW_2025_paper.pdf) [[code]](https://github.com/m-arda-aydn/ITACLIP)
+15. [2025 CVPR] **Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sidhu_Search_and_Detect_Training-Free_Long_Tail_Object_Detection_via_Web-Image_CVPR_2025_paper.pdf) [[code]](https://github.com/Mankeerat/SearchDet)
+16. [2025 ICCV] **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scene** [[paper]](https://arxiv.org/pdf/2410.14462#page=17.85) [[code]](https://github.com/naver/ludvig)
+17. [2025 ICCV] **WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images** [[paper]](https://arxiv.org/pdf/2503.08407)
+18. [2025 ICCV] **Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.09219) [[code]](https://github.com/YuHengsss/Trident)
+19. [2025 ICCV] **E-SAM: Training-Free Segment Every Entity Model** [[paper]](https://arxiv.org/pdf/2503.12094)
+20. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
+21. [2025 ICCV] **CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.10086) [[code]](https://github.com/zdk258/CorrCLIP)
+22. [2025 ICCV] **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** [[paper]](https://arxiv.org/pdf/2505.20469) [[code]](https://epsilontl.github.io/CCL-LGS/)
+23. [2025 ICCV] **Auto-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2312.04539)
+24. [2025 ICCV] **Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**
+25. [2025 ICCV] **Training-Free Class Purification for Open-Vocabulary Semantic Segmentation**
+26. [2025 ICCV] **DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation**
+27. [2025 ICCV] **Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild**
+28. [2025 ICCV] **Feature Purification Matters: Suppressing Outlier Propagation for Training-Free Open-Vocabulary Semantic Segmentation**
+29. [2025 ICCV] **Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation**
+30. [2025 ICCV] **Test-Time Retrieval-Augmented Adaptation for Vision-Language Models**
+31. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**
+32. [2025 ICCV] **Text-guided Visual Prompt DINO for Generic Segmentation**
+33. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**
+34. [2025 ICCV] **Images as Noisy Labels: Unleashing the Potential of the Diffusion Model for Open-Vocabulary Semantic Segmentation**
+35. [2025 arXiv] **Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP?tab=readme-ov-file)
+36. [2025 arXiv] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP?tab=readme-ov-file)
+37. [2025 arXiv] **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/abs/2504.10487) [[code]](https://github.com/yasserben/FLOSS)
+38. [2025 arXiv] **TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models** [[paper]](https://arxiv.org/pdf/2505.23769) [[code]](https://github.com/avaxiao/TextRegion)
+39. [2025 arXiv] **A Survey on Training-free Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.22209)
 # Training Open-Vocabulary Semantic Segmentation
 <a name="Training_OVSS"></a>
 1. [2022 CVPR] **GroupViT: Semantic Segmentation Emerges from Text Supervision** [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT?tab=readme-ov-file)
@@ -76,17 +75,16 @@
 16. [2024 ECCV] **CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation** [[paper]](https://arxiv.org/pdf/2312.12359) [[code]](https://github.com/wysoczanska/clip_dinoiser)
 17. [2024 ECCV] **In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation** [[paper]](http://arxiv.org/abs/2408.04961) [[code]](https://github.com/dahyun-kang/lavg)
 18. [2024 ICLR] **CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction** [[paper]](https://arxiv.org/pdf/2310.01403v2) [[code]](https://github.com/wusize/CLIPSelf?tab=readme-ov-file)
-19. [2024 ICLR] **A HARD-TO-BEAT BASELINE FOR TRAINING-FREE CLIP-BASED ADAPTATION** [[paper]](https://arxiv.org/pdf/2402.04087) [[code]](https://github.com/mrflogs/ICLR24)
-20. [2024 NIPS] **Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1119587863e78451f080da2a768c4935-Paper-Conference.pdf) [[code]](https://github.com/cvlab-kaist/PixelCLIP)
-21. [2024 arXiv] **DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment** [[paper]](https://arxiv.org/pdf/2412.16334)
-22. [2025 CVPR] **Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.21780)
-23. [2025 CVPR] **Your ViT is Secretly an Image Segmentation Model** [[paper]](https://arxiv.org/pdf/2503.19108) [[code]](https://github.com/tue-mps/eomt)
-24. [2025 CVPR] **Exploring Simple Open-Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_Exploring_Simple_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)
-25. [2025 CVPR] **Dual Semantic Guidance for Open Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Dual_Semantic_Guidance_for_Open_Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)
-26. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
-27. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf) [[code]](https://github.com/xiaomoguhz/DeCLIP)
-28. [2025 ICCV] **Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.19331) [[code]](https://github.com/lorebianchi98/Talk2DINO)
-29. [2025 ICLR] **Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion** [[paper]](https://arxiv.org/pdf/2502.04263) [[code]](https://github.com/miccunifi/Cross-the-Gap?tab=readme-ov-file)
+19. [2024 NIPS] **Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1119587863e78451f080da2a768c4935-Paper-Conference.pdf) [[code]](https://github.com/cvlab-kaist/PixelCLIP)
+20. [2024 arXiv] **DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment** [[paper]](https://arxiv.org/pdf/2412.16334)
+21. [2025 CVPR] **Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.21780)
+22. [2025 CVPR] **Your ViT is Secretly an Image Segmentation Model** [[paper]](https://arxiv.org/pdf/2503.19108) [[code]](https://github.com/tue-mps/eomt)
+23. [2025 CVPR] **Exploring Simple Open-Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_Exploring_Simple_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)
+24. [2025 CVPR] **Dual Semantic Guidance for Open Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Dual_Semantic_Guidance_for_Open_Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)
+25. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+26. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf) [[code]](https://github.com/xiaomoguhz/DeCLIP)
+27. [2025 ICCV] **Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.19331) [[code]](https://github.com/lorebianchi98/Talk2DINO)
+28. [2025 ICLR] **Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion** [[paper]](https://arxiv.org/pdf/2502.04263) [[code]](https://github.com/miccunifi/Cross-the-Gap?tab=readme-ov-file)
 # Zero-Shot Open-Vocabulary Semantic Segmentation
 <a name="ZSOVSS"></a>
 1. [2024 CVPR] **On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_On_the_Test-Time_Zero-Shot_Generalization_of_Vision-Language_Models_Do_We_CVPR_2024_paper.pdf) [[code]](https://github.com/MaxZanella/MTA)
@@ -167,12 +165,14 @@
 # CLIP Classification
 <a name="CLIP_Classification"></a>
 1. [2024 NIPS] **Boosting Vision-Language Models with Transduction** [[paper]](https://arxiv.org/abs/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
-2. [2025 CVPR] **Realistic Test-Time Adaptation of Vision-Language Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf) [[code]](https://github.com/MaxZanella/StatA)
-3. [2025 CVPR] **COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation** [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](https://github.com/hf618/COSMIC)
-4. [2025 CVPR] **Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Few-Shot_Recognition_via_Stage-Wise_Retrieval-Augmented_Finetuning_CVPR_2025_paper.pdf) [[code]](https://tian1327.github.io/SWAT)
-5. [2025 ICCV] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation** [[paper]](https://arxiv.org/pdf/2410.14729)
-6. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
-7. [2025 TMLR] **Memory-Modular Classification: Learning to Generalize with Memory Replacement** [[paper]](https://openreview.net/pdf?id=DcIW0idrg8) [[code]](https://github.com/dahyun-kang/mml)
+2. [2024 ICLR] **A Hard-to-Beat Baseline for Training-free CLIP-Based Adaptation** [[paper]](https://arxiv.org/pdf/2402.04087) [[code]](https://github.com/mrflogs/ICLR24)
+3. [2025 CVPR] **Realistic Test-Time Adaptation of Vision-Language Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf) [[code]](https://github.com/MaxZanella/StatA)
+4. [2025 CVPR] **COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation** [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](https://github.com/hf618/COSMIC)
+5. [2025 CVPR] **Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Few-Shot_Recognition_via_Stage-Wise_Retrieval-Augmented_Finetuning_CVPR_2025_paper.pdf) [[code]](https://tian1327.github.io/SWAT)
+6. [2025 CVPR] **ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2501.11175) [[code]](https://github.com/ybendou/ProKeR)
+7. [2025 ICCV] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation** [[paper]](https://arxiv.org/pdf/2410.14729)
+8. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
+9. [2025 TMLR] **Memory-Modular Classification: Learning to Generalize with Memory Replacement** [[paper]](https://openreview.net/pdf?id=DcIW0idrg8) [[code]](https://github.com/dahyun-kang/mml)
 
 # Diffusion Model
 <a name="Diffusion_Model"></a>
