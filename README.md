@@ -5,7 +5,7 @@
 4. [[Few-Shot Open-Vocabulary Semantic Segmentation](#FSOVSS)]
 5. [[Supervised Semantic Segmentation](#Supervised_Semantic_Segmentation)]
 6. [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]
-7. [Semi-Supervised Semantic Segmentation](#Semi-Supervised_Semantic_Segmentation)]
+7. [[Semi-Supervised Semantic Segmentation](#Semi-Supervised_Semantic_Segmentation)]
 8. [[Unsupervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
 9. [[Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
 10. [[Supervised Camouflaged Object Detection](#Supervised_Camouflaged_Object_Detection)]
