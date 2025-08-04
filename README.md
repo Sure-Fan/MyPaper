@@ -121,7 +121,24 @@
 11. [2024 CVPR] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https:https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Hunting_Attributes_Context_Prototype-Aware_Learning_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) [[code]](https://github.com/Barrett-python/CPAL)
 12. [2024 CVPR] **Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Improving_the_Generalization_of_Segmentation_Foundation_Model_under_Distribution_Shift_CVPR_2024_paper.pdf)
 13. [2024 CVPR] **Official code for Class Tokens Infusion for Weakly Supervised Semantic Segmentation** [[paper]](Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper) [[code]](https://github.com/yoon307/CTI)
-14. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
+14. [2024 CVPR] **Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2402.18467) [[code]](https://github.com/zwyang6/SeCo)
+15. [2024 CVPR] **Class Tokens Infusion for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) [[code]](https://github.com/yoon307/CTI)
+16. [2024 CVPR] **SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2401.11719) [[code]](https://github.com/Barrett-python/SFC)
+17. [2024 CVPR] **PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf) [[code]](https://github.com/xinqiaozhao/PSDPM)
+18. [2024 ECCV] **DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2409.15801)
+19. [2024 ECCV] **CoSa:Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2402.17891) [[code]](https://github.com/youshyee/CoSA)
+20. [2024 AAAI] **Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2312.08916) [[code]](https://github.com/Jessie459/feature-self-reinforcement)
+21. [2024 arXiv] **A Realistic Protocol for Evaluation of Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2404.10034) [[code]](https://github.com/shakeebmurtaza/wsol_model_selection)
+22. [2024 IEEE] **SSC:Spatial Structure Constraints for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2401.11122) [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC)
+23. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
+24. [2025 CVPR] **PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis** [[paper]](https://arXiv.org/pdf/2501.09333) [[code]](https://github.com/Imageomics/Prompt_CAM)
+25. [2025 CVPR] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
+26. [2025 CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery** [[paper]](https://arXiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
+27. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+28. [2025 CVPR] **Prompt Categories Cluster for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.13823)
+29. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
+30. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
+31. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
 # Unsupervised Semantic Segmentation
 <a name="Unsupervised_Semantic_Segmentation"></a>
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
@@ -138,7 +155,7 @@
 12. [2025 ICCV] **DIP: Unsupervised Dense In-Context Post-training of Visual Representations** [[paper]](https://arxiv.org/pdf/2506.18463) [[code]](https://github.com/sirkosophia/DIP)
 # Training-Free Semantic Segmentation
 <a name="Training-Free_Semantic_Segmentation"></a>
-1. [2025 arXiv] **Training-Free Reference-Based Instance Segmentation** [[paper]](https://arxiv.org/pdf/2507.02798) [[code]](https://github.com/miquel-espinosa/no-time-to-train?tab=readme-ov-file) [[note]](https://mp.weixin.qq.com/s/6BjzduZoqc2OgocNkaDiPQ)
+1. [2025 arXiv] **No time to train! Training-Free Reference-Based Instance Segmentation** [[paper]](https://arxiv.org/pdf/2507.02798) [[code]](https://github.com/miquel-espinosa/no-time-to-train?tab=readme-ov-file) [[note]](https://mp.weixin.qq.com/s/6BjzduZoqc2OgocNkaDiPQ)
 
 # Open-Vocabulary Object Detection
 <a name="Open-Vocabulary_Object_Detection"></a>
