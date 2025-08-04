@@ -4,9 +4,9 @@
 3. [[Zero-Shot Open-Vocabulary Semantic Segmentation](#ZSOVSS)]
 4. [[Few-Shot Open-Vocabulary Semantic Segmentation](#FSOVSS)]
 5. [[Supervised Semantic Segmentation](#Supervised_Semantic_Segmentation)]
-6. [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentationn)]
-7. [[Unsupervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
-8. [[Training-Free Semantic Segmentation](#Training-Free_Semantic_Segmentation)]
+6. [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]
+7. [Semi-Supervised Semantic Segmentation](#Semi-Supervised_Semantic_Segmentation)]
+8. [[Unsupervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
 9. [[Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
 10. [[Supervised Camouflaged Object Detection](#Supervised_Camouflaged_Object_Detection)]
 11. [[Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
@@ -40,22 +40,22 @@
 21. [2025 ICCV] **CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.10086) [[code]](https://github.com/zdk258/CorrCLIP)
 22. [2025 ICCV] **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** [[paper]](https://arxiv.org/pdf/2505.20469) [[code]](https://epsilontl.github.io/CCL-LGS/)
 23. [2025 ICCV] **Auto-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2312.04539)
-24. [2025 ICCV] **Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**
+24. [2025 ICCV] **Understanding Personal Concept in Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2507.11030)
 25. [2025 ICCV] **Training-Free Class Purification for Open-Vocabulary Semantic Segmentation**
 26. [2025 ICCV] **DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation**
 27. [2025 ICCV] **Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild**
 28. [2025 ICCV] **Feature Purification Matters: Suppressing Outlier Propagation for Training-Free Open-Vocabulary Semantic Segmentation**
 29. [2025 ICCV] **Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation**
-30. [2025 ICCV] **Test-Time Retrieval-Augmented Adaptation for Vision-Language Models**
-31. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**
-32. [2025 ICCV] **Text-guided Visual Prompt DINO for Generic Segmentation**
-33. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**
-34. [2025 ICCV] **Images as Noisy Labels: Unleashing the Potential of the Diffusion Model for Open-Vocabulary Semantic Segmentation**
-35. [2025 arXiv] **Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP?tab=readme-ov-file)
-36. [2025 arXiv] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP?tab=readme-ov-file)
-37. [2025 arXiv] **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/abs/2504.10487) [[code]](https://github.com/yasserben/FLOSS)
-38. [2025 arXiv] **TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models** [[paper]](https://arxiv.org/pdf/2505.23769) [[code]](https://github.com/avaxiao/TextRegion)
-39. [2025 arXiv] **A Survey on Training-free Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.22209)
+30. [2025 ICCV] **Test-Time Retrieval-Augmented Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/xinqi-fan/TT-RAA)
+31. [2025 ICCV] **Text-guided Visual Prompt DINO for Generic Segmentation**
+32. [2025 ICCV] **SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation** [[paper]](https://arxiv.org/pdf/2507.12857) [[code]](https://github.com/HuangShiqi128/SCORE)
+33. [2025 ICCV] **Images as Noisy Labels: Unleashing the Potential of the Diffusion Model for Open-Vocabulary Semantic Segmentation** 
+34. [2025 arXiv] **Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.15869) [[code]](https://github.com/SuleBai/SC-CLIP?tab=readme-ov-file)
+35. [2025 arXiv] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP?tab=readme-ov-file)
+36. [2025 arXiv] **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/abs/2504.10487) [[code]](https://github.com/yasserben/FLOSS)
+37. [2025 arXiv] **TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models** [[paper]](https://arxiv.org/pdf/2505.23769) [[code]](https://github.com/avaxiao/TextRegion)
+38. [2025 arXiv] **A Survey on Training-free Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.22209)
+39. [2025 arXiv] **No time to train! Training-Free Reference-Based Instance Segmentation** [[paper]](https://arxiv.org/pdf/2507.02798) [[code]](https://github.com/miquel-espinosa/no-time-to-train?tab=readme-ov-file) [[note]](https://mp.weixin.qq.com/s/6BjzduZoqc2OgocNkaDiPQ)
 # Training Open-Vocabulary Semantic Segmentation
 <a name="Training_OVSS"></a>
 1. [2022 CVPR] **GroupViT: Semantic Segmentation Emerges from Text Supervision** [[paper]](https://arxiv.org/pdf/2202.11094) [[code]](https://github.com/NVlabs/GroupViT?tab=readme-ov-file)
@@ -107,7 +107,7 @@
 3. [2022 ICLR] **Language-driven Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2201.03546) [[code]](https://github.com/isl-org/lang-seg)
 4. [2025 CVPV] **Your ViT is Secretly an Image Segmentation Model** [[paper]](https://arxiv.org/pdf/2503.19108) [[code]](https://github.com/tue-mps/eomt)
 # Weakly Supervised Semantic Segmentation
-<a name="Weakly_Supervised_Semantic_Segmentationn"></a>
+<a name="Weakly_Supervised_Semantic_Segmentation"></a>
 1. [2022 CVPR] **Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers** [[paper]](https://arXiv.org/pdf/2203.02664) [[code]](https://github.com/rulixiang/afa)
 2. [2022 CVPR] **MCTFormer:Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2203.02891) [[code]](https://github.com/xulianuwa/MCTformer)
 3. [2023 CVPR] **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xulianuwa/MMCST)
@@ -139,6 +139,9 @@
 29. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
 30. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
 31. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
+# Semi-Supervised Semantic Segmentation
+<a name="Semi-Supervised_Semantic_Segmentation"></a>
+1. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction** [[paper]](https://arxiv.org/pdf/2507.15803) [[code]](https://github.com/xinqi-fan/TT-RAA)
 # Unsupervised Semantic Segmentation
 <a name="Unsupervised_Semantic_Segmentation"></a>
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
@@ -153,9 +156,6 @@
 10. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 11. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
 12. [2025 ICCV] **DIP: Unsupervised Dense In-Context Post-training of Visual Representations** [[paper]](https://arxiv.org/pdf/2506.18463) [[code]](https://github.com/sirkosophia/DIP)
-# Training-Free Semantic Segmentation
-<a name="Training-Free_Semantic_Segmentation"></a>
-1. [2025 arXiv] **No time to train! Training-Free Reference-Based Instance Segmentation** [[paper]](https://arxiv.org/pdf/2507.02798) [[code]](https://github.com/miquel-espinosa/no-time-to-train?tab=readme-ov-file) [[note]](https://mp.weixin.qq.com/s/6BjzduZoqc2OgocNkaDiPQ)
 
 # Open-Vocabulary Object Detection
 <a name="Open-Vocabulary_Object_Detection"></a>
