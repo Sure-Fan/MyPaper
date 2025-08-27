@@ -96,11 +96,12 @@
 7. [2025 ICLR] **Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model** [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP?tab=readme-ov-file)
 # Few-Shot Open-Vocabulary Semantic Segmentation
 <a name="FSOVSS"></a>
-1. [2025 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963) [[code]]()
-2. [2025 NIPS] **A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2f75a57e9c71e8369da0150ea769d5a2-Paper-Conference.pdf) [[code]](https://github.com/IBM/BCM)
-3. [2025 CVPR] **Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.pdf)
-4. [2025 ICCV] **Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2506.22979) [[code]](https://github.com/jliu4ai/FewCLIP)
-5. [2025 MICCAI] **Realistic Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2506.17500) [[code]](https://github.com/jusiro/SS-Text)
+1. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
+2. [2024 NIPS] **A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2f75a57e9c71e8369da0150ea769d5a2-Paper-Conference.pdf) [[code]](https://github.com/IBM/BCM)
+3. [2024 NIPS] **Renovating Names in Open-Vocabulary Segmentation Benchmarks** [[paper]](https://openreview.net/pdf?id=Uw2eJOI822) [[code]](https://andrehuang.github.io/renovate/)
+4. [2025 CVPR] **Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.pdf)
+5. [2025 ICCV] **Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2506.22979) [[code]](https://github.com/jliu4ai/FewCLIP)
+6. [2025 MICCAI] **Realistic Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2506.17500) [[code]](https://github.com/jusiro/SS-Text)
 
 # Supervised Semantic Segmentation
 <a name="Supervised_Semantic_Segmentation"></a>
