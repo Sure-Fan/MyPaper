@@ -11,9 +11,10 @@
 10. [[Supervised Camouflaged Object Detection](#Supervised_Camouflaged_Object_Detection)]
 11. [[Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
 12. [[Unsupervised Object Detection](#Unsupervised_Object_Detection)]
-13. [[CLIP Classification](#CLIP_Classification)]
+13. [[Classification](#Classification)]
 14. [[Diffusion Model](#Diffusion_Model)]
-15. [[Dataset](#Dataset)]
+15. [[Foundation models in Segmentation and Classification](#Foundation_models)]
+16. [[Dataset](#Dataset)]
 -----------------------------------------------------------------------------------------------
 # Training-Free Open-Vocabulary Semantic Segmentation
 <a name="Training-Free_OVSS"></a>
@@ -197,8 +198,8 @@
 10. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
 11. [2025 ICCV] **Ensemble Foreground Management for Unsupervised Object Discovery**
 
-# CLIP Classification
-<a name="CLIP_Classification"></a>
+# Classification
+<a name="Classification"></a>
 1. [2024 NIPS] **Boosting Vision-Language Models with Transduction** [[paper]](https://arxiv.org/abs/2406.01837) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
 2. [2024 NIPS] **Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting** [[paper]](https://arxiv.org/pdf/2410.19294v1) [[code]](https://github.com/zhuhsingyuu/Frolic)
 3. [2024 ICLR] **A Hard-to-Beat Baseline for Training-free CLIP-Based Adaptation** [[paper]](https://arxiv.org/pdf/2402.04087) [[code]](https://github.com/mrflogs/ICLR24)
@@ -216,6 +217,13 @@
 1. [2022 CVPR] **High-Resolution Image Synthesis with Latent Diffusion Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
 2. [2023 ICLR] **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** [[paper]](https://arxiv.org/pdf/2307.01952) [[code]](https://github.com/Stability-AI/generative-models)
 3. [2023 CVPR] **Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf) [[code]](https://github.com/chunmeifeng/DiffTPT?tab=readme-ov-file)
+
+# Foundation models in Segmentation and Classification
+<a name="Foundation_models"></a>
+1. [2021 ICML] **CLIP: Learning Transferable Visual Models From Natural Language Supervision** [[paper]](https://arxiv.org/pdf/2103.00020) [[code]](https://github.com/openai/CLIP)
+2. [2021 ICCV] **DINO: Emerging Properties in Self-Supervised Vision Transformers** [[paper]](https://arxiv.org/pdf/2104.14294) [[code]](https://github.com/facebookresearch/dino)
+3. [2024 TMLR] **DINOv2: Learning robust visual features without supervision** [[paper]](https://arxiv.org/pdf/2304.07193) [[code]](https://github.com/facebookresearch/dinov2)
+4. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3)
 
 # Dataset
 1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive). Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages. Conversion codes applied to names in datasets can be found in [[MaskCLIP]](https://github.com/chongzhou96/MaskCLIP/tree/master/tools/convert_datasets).
