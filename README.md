@@ -84,7 +84,6 @@
 23. [2025 CVPR] **Your ViT is Secretly an Image Segmentation Model** [[paper]](https://arxiv.org/pdf/2503.19108) [[code]](https://github.com/tue-mps/eomt)
 24. [2025 CVPR] **Exploring Simple Open-Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_Exploring_Simple_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)
 25. [2025 CVPR] **Dual Semantic Guidance for Open Vocabulary Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Dual_Semantic_Guidance_for_Open_Vocabulary_Semantic_Segmentation_CVPR_2025_paper.pdf)
-26. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
 27. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf) [[code]](https://github.com/xiaomoguhz/DeCLIP)
 28. [2025 ICCV] **Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.19331) [[code]](https://github.com/lorebianchi98/Talk2DINO)
 29. [2025 ICLR] **Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion** [[paper]](https://arxiv.org/pdf/2502.04263) [[code]](https://github.com/miccunifi/Cross-the-Gap?tab=readme-ov-file)
@@ -144,13 +143,14 @@
 28. [2025 CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery** [[paper]](https://arXiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
 29. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
 30. [2025 CVPR] **Prompt Categories Cluster for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.13823)
-31. [2025 ICCV] **Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation**
-32. [2025 ICCV] **Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**
-33. [2025 ICCV] **Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows**
-34. [2025 ICCV] **OVA-Fields: Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection**
-35. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
-36. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
-37. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
+31. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
+32. [2025 ICCV] **Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation**
+33. [2025 ICCV] **Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**
+34. [2025 ICCV] **Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows**
+35. [2025 ICCV] **OVA-Fields: Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection**
+36. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
+37. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
+38. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
 # Semi-Supervised Semantic Segmentation
 <a name="Semi-Supervised_Semantic_Segmentation"></a>
 1. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction** [[paper]](https://arxiv.org/pdf/2507.15803) [[code]](https://github.com/xinqi-fan/TT-RAA)
