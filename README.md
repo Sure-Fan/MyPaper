@@ -140,7 +140,6 @@
 25. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
 26. [2025 CVPR] **PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis** [[paper]](https://arXiv.org/pdf/2501.09333) [[code]](https://github.com/Imageomics/Prompt_CAM)
 27. [2025 CVPR] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
-28. [2025 CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery** [[paper]](https://arXiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
 29. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
 30. [2025 CVPR] **Prompt Categories Cluster for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.13823)
 31. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
@@ -207,10 +206,11 @@
 5. [2025 CVPR] **COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation** [[paper]](https://arxiv.org/pdf/2503.23388) [[code]](https://github.com/hf618/COSMIC)
 6. [2025 CVPR] **Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Few-Shot_Recognition_via_Stage-Wise_Retrieval-Augmented_Finetuning_CVPR_2025_paper.pdf) [[code]](https://tian1327.github.io/SWAT)
 7. [2025 CVPR] **ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2501.11175) [[code]](https://github.com/ybendou/ProKeR)
-8. [2025 ICCV] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation** [[paper]](https://arxiv.org/pdf/2410.14729)
-9. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
-10. [2025 TMLR] **Memory-Modular Classification: Learning to Generalize with Memory Replacement** [[paper]](https://openreview.net/pdf?id=DcIW0idrg8) [[code]](https://github.com/dahyun-kang/mml)
-11. [2025 arXiv] **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment** [[paper]](https://arxiv.org/pdf/2508.15568) [[code]](https://github.com/AIM-SKKU/ADAPT)
+8. [2025 CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery** [[paper]](https://arXiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
+9. [2025 ICCV] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation** [[paper]](https://arxiv.org/pdf/2410.14729)
+10. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
+11. [2025 TMLR] **Memory-Modular Classification: Learning to Generalize with Memory Replacement** [[paper]](https://openreview.net/pdf?id=DcIW0idrg8) [[code]](https://github.com/dahyun-kang/mml)
+12. [2025 arXiv] **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment** [[paper]](https://arxiv.org/pdf/2508.15568) [[code]](https://github.com/AIM-SKKU/ADAPT)
 
 # Diffusion Model
 <a name="Diffusion_Model"></a>
