@@ -146,7 +146,7 @@
 32. [2025 ICCV] **Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation**
 33. [2025 ICCV] **Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**
 34. [2025 ICCV] **Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows**
-35. [2025 ICCV] **OVA-Fields: Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection**
+35. [2025 ICCV] **OVA-Fields: Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection** [[paper]]() [[code]](https://github.com/vlasu19/OVA-Fields)
 36. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
 37. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
 38. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
