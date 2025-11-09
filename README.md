@@ -216,6 +216,7 @@
 1. [2022 CVPR] **High-Resolution Image Synthesis with Latent Diffusion Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
 2. [2023 ICLR] **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** [[paper]](https://arxiv.org/pdf/2307.01952) [[code]](https://github.com/Stability-AI/generative-models)
 3. [2023 CVPR] **Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf) [[code]](https://github.com/chunmeifeng/DiffTPT?tab=readme-ov-file)
+4. [2023 ICCV] **Dataset Distillation via Vision-Language Category Prototype** [[paper]](https://arxiv.org/pdf/2506.23580) [[code]](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/)
 
 # Foundation models in Segmentation and Classification
 <a name="Foundation_models"></a>
