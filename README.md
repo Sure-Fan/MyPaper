@@ -103,7 +103,8 @@
 3. [2024 NIPS] **Renovating Names in Open-Vocabulary Segmentation Benchmarks** [[paper]](https://openreview.net/pdf?id=Uw2eJOI822) [[code]](https://andrehuang.github.io/renovate/)
 4. [2025 CVPR] **Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.pdf)
 5. [2025 ICCV] **Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2506.22979) [[code]](https://github.com/jliu4ai/FewCLIP)
-6. [2025 MICCAI] **Realistic Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2506.17500) [[code]](https://github.com/jusiro/SS-Text)
+6. 
+7. [2025 MICCAI] **Realistic Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2506.17500) [[code]](https://github.com/jusiro/SS-Text)
 
 # Supervised Semantic Segmentation
 <a name="Supervised_Semantic_Segmentation"></a>
@@ -173,6 +174,7 @@
 2. [2022 CVPR] **Grounded Language-Image Pre-training** [[paper]](https://arxiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 3. [2024 CVPR] **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SHiNe_Semantic_Hierarchy_Nexus_for_Open-vocabulary_Object_Detection_CVPR_2024_paper.pdf)
 4. [2024 ECCV] **Grounding dino: Marrying dino with grounded pre-training for open-set object detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file) [[note]](https://blog.csdn.net/xhtchina/article/details/147641112)
+5. [2025 ICCV] **Unified Category-Level Object Detection and Pose Estimation from RGB Images using 3D Prototypes** [[paper]](https://www.arxiv.org/pdf/2508.02157) [[code]](https://github.com/Fischer-Tom/unified-detection-and-pose-estimation)
 # Supervised Camouflaged Object Detection
 <a name="Supervised_Camouflaged_Object_Detection"></a>
 1. [2020 CVPR] **Camouflaged Object Detection** [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) [[code]](https://github.com/DengPingFan/SINet)
@@ -207,16 +209,17 @@
 7. [2025 CVPR] **ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models** [[paper]](https://arxiv.org/pdf/2501.11175) [[code]](https://github.com/ybendou/ProKeR)
 8. [2025 CVPR] **GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery** [[paper]](https://arXiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
 9. [2025 ICCV] **Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation** [[paper]](https://arxiv.org/pdf/2410.14729)
-10. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
-11. [2025 TMLR] **Memory-Modular Classification: Learning to Generalize with Memory Replacement** [[paper]](https://openreview.net/pdf?id=DcIW0idrg8) [[code]](https://github.com/dahyun-kang/mml)
-12. [2025 arXiv] **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment** [[paper]](https://arxiv.org/pdf/2508.15568) [[code]](https://github.com/AIM-SKKU/ADAPT)
+10. [2025 ICCV] **Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2508.01225) [[code]](https://github.com/CenturyChen/MCP)
+11. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
+12. [2025 TMLR] **Memory-Modular Classification: Learning to Generalize with Memory Replacement** [[paper]](https://openreview.net/pdf?id=DcIW0idrg8) [[code]](https://github.com/dahyun-kang/mml)
+13. [2025 arXiv] **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment** [[paper]](https://arxiv.org/pdf/2508.15568) [[code]](https://github.com/AIM-SKKU/ADAPT)
 
 # Diffusion Model
 <a name="Diffusion_Model"></a>
 1. [2022 CVPR] **High-Resolution Image Synthesis with Latent Diffusion Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
 2. [2023 ICLR] **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** [[paper]](https://arxiv.org/pdf/2307.01952) [[code]](https://github.com/Stability-AI/generative-models)
 3. [2023 CVPR] **Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf) [[code]](https://github.com/chunmeifeng/DiffTPT?tab=readme-ov-file)
-4. [2023 ICCV] **Dataset Distillation via Vision-Language Category Prototype** [[paper]](https://arxiv.org/pdf/2506.23580) [[code]](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/)
+4. [2025 ICCV] **Dataset Distillation via Vision-Language Category Prototype** [[paper]](https://arxiv.org/pdf/2506.23580) [[code]](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/)
 
 # Foundation models in Segmentation and Classification
 <a name="Foundation_models"></a>
