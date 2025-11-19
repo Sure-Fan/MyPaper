@@ -103,7 +103,6 @@
 3. [2024 NIPS] **Renovating Names in Open-Vocabulary Segmentation Benchmarks** [[paper]](https://openreview.net/pdf?id=Uw2eJOI822) [[code]](https://andrehuang.github.io/renovate/)
 4. [2025 CVPR] **Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.pdf)
 5. [2025 ICCV] **Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2506.22979) [[code]](https://github.com/jliu4ai/FewCLIP)
-6. 
 7. [2025 MICCAI] **Realistic Adaptation of Medical Vision-Language Models** [[paper]](https://arxiv.org/pdf/2506.17500) [[code]](https://github.com/jusiro/SS-Text)
 
 # Supervised Semantic Segmentation
@@ -138,9 +137,10 @@
 22. [2024 AAAI] **Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2312.08916) [[code]](https://github.com/Jessie459/feature-self-reinforcement)
 23. [2024 arXiv] **A Realistic Protocol for Evaluation of Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2404.10034) [[code]](https://github.com/shakeebmurtaza/wsol_model_selection)
 24. [2024 IEEE] **SSC:Spatial Structure Constraints for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2401.11122) [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC)
-25. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
-26. [2025 CVPR] **PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis** [[paper]](https://arXiv.org/pdf/2501.09333) [[code]](https://github.com/Imageomics/Prompt_CAM)
-27. [2025 CVPR] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
+25. [2024 IEEE] **Modeling the label distributions for weakly-supervised semantic segmentation** [[paper]](https://arxiv.org/pdf/2403.13225) [[code]](https://github.com/Luffy03/AGMM-SASS)
+26. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
+27. [2025 CVPR] **PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis** [[paper]](https://arXiv.org/pdf/2501.09333) [[code]](https://github.com/Imageomics/Prompt_CAM)
+28. [2025 CVPR] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
 29. [2025 CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
 30. [2025 CVPR] **Prompt Categories Cluster for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.13823)
 32. [2025 ICCV] **Class Token as Proxy: Optimal Transport-assisted Proxy Learning for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Wang_Class_Token_as_ICCV_2025_supplemental.pdf) 
