@@ -196,7 +196,8 @@
 8. [2024 CVPR] **CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers** [[paper]](https://arxiv.org/pdf/2403.07700) [[code]](https://github.com/shahaf-arica/CuVLER)
 9. [2024 NIPS] **HASSOD: Hierarchical adaptive self-supervised object detection** [[paper]](https://arxiv.org/pdf/2402.03311) [[code]](https://github.com/Shengcao-Cao/HASSOD)
 10. [2024 arXiv] **Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** [[paper]](https://arxiv.org/pdf/2310.12904)
-11. [2025 ICCV] **Ensemble Foreground Management for Unsupervised Object Discovery**
+11. [2025 ICCV] **Ensemble Foreground Management for Unsupervised Object Discovery** [[paper]](https://arxiv.org/pdf/2507.20860) [[code]](https://github.com/YFaris/UnionCut)
+12. [2025 arXiv] **RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models** [[paper]](https://arxiv.org/pdf/2510.25257v1) [[code]](https://github.com/RT-DETRs/RT-DETRv4) [[note]](https://zhuanlan.zhihu.com/p/1967226872959050195)
 
 # Classification
 <a name="Classification"></a>
