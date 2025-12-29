@@ -7,14 +7,15 @@
 6. [[Weakly Supervised Semantic Segmentation](#Weakly_Supervised_Semantic_Segmentation)]
 7. [[Semi-Supervised Semantic Segmentation](#Semi-Supervised_Semantic_Segmentation)]
 8. [[Unsupervised Semantic Segmentation](#Unsupervised_Semantic_Segmentation)]
-9. [[Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
-10. [[Supervised Camouflaged Object Detection](#Supervised_Camouflaged_Object_Detection)]
-11. [[Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
-12. [[Unsupervised Object Detection](#Unsupervised_Object_Detection)]
-13. [[Classification](#Classification)]
-14. [[Diffusion Model](#Diffusion_Model)]
-15. [[Foundation models in Segmentation and Classification](#Foundation_models)]
-16. [[Dataset](#Dataset)]
+9. [[3D Segmentation](#3D)]
+10. [[Open-Vocabulary Object Detection](#Open-Vocabulary_Object_Detection)]
+11. [[Supervised Camouflaged Object Detection](#Supervised_Camouflaged_Object_Detection)]
+12. [[Weakly Supervised Object Detection](#Weakly_Supervised_Object_Detection)]
+13. [[Unsupervised Object Detection](#Unsupervised_Object_Detection)]
+14. [[Classification](#Classification)]
+15. [[Diffusion Model](#Diffusion_Model)]
+16. [[Foundation models in Segmentation and Classification](#Foundation_models)]
+17. [[Dataset](#Dataset)]
 -----------------------------------------------------------------------------------------------
 # Training-Free Open-Vocabulary Semantic Segmentation
 <a name="Training-Free_OVSS"></a>
@@ -170,6 +171,10 @@
 10. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 11. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
 12. [2025 ICCV] **DIP: Unsupervised Dense In-Context Post-training of Visual Representations** [[paper]](https://arxiv.org/pdf/2506.18463) [[code]](https://github.com/sirkosophia/DIP)
+
+# 3D Segmentation
+<a name="3D"></a>
+1. [2025 CVPR] **Vggt: Visual geometry grounded transformer** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf) [[code]](https://github.com/facebookresearch/vggt) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Vggt%3A+Visual+geometry+grounded+transformer&btnG=) [[video]](https://www.bilibili.com/video/BV1UyunzLE4J/?spm_id_from=333.337.search-card.all.click&vd_source=68b963749fcc2e6dfd103676fb26daaf)
 
 # Open-Vocabulary Object Detection
 <a name="Open-Vocabulary_Object_Detection"></a>
