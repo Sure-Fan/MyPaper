@@ -174,7 +174,7 @@
 
 # 3D Segmentation
 <a name="3D"></a>
-1. [2025 CVPR] **Vggt: Visual geometry grounded transformer** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf) [[code]](https://github.com/facebookresearch/vggt) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Vggt%3A+Visual+geometry+grounded+transformer&btnG=) [[video]](https://www.bilibili.com/video/BV1UyunzLE4J/?spm_id_from=333.337.search-card.all.click&vd_source=68b963749fcc2e6dfd103676fb26daaf)
+1. [2025 CVPR] **Vggt: Visual geometry grounded transformer** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf) [[code]](https://github.com/facebookresearch/vggt) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Vggt%3A+Visual+geometry+grounded+transformer&btnG=) [[video]](https://www.bilibili.com/video/BV1UyunzLE4J/?spm_id_from=333.337.search-card.all.click&vd_source=68b963749fcc2e6dfd103676fb26daaf) [[note]](https://blog.csdn.net/qq_64508960/article/details/148398634)
 
 # Open-Vocabulary Object Detection
 <a name="Open-Vocabulary_Object_Detection"></a>
