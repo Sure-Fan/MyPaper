@@ -235,8 +235,8 @@
 <a name="Foundation_models"></a>
 1. [2021 ICML] **CLIP: Learning Transferable Visual Models From Natural Language Supervision** [[paper]](https://arxiv.org/pdf/2103.00020) [[code]](https://github.com/openai/CLIP)
 2. [2021 ICCV] **DINO: Emerging Properties in Self-Supervised Vision Transformers** [[paper]](https://arxiv.org/pdf/2104.14294) [[code]](https://github.com/facebookresearch/dino)
-3. [2024 TMLR] **DINOv2: Learning robust visual features without supervision** [[paper]](https://arxiv.org/pdf/2304.07193) [[code]](https://github.com/facebookresearch/dinov2)
-4. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3)
+3. [2024 TMLR] **DINOv2: Learning robust visual features without supervision** [[paper]](https://arxiv.org/pdf/2304.07193) [[code]](https://github.com/facebookresearch/dinov2) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+DINOv2%3A+Learning+robust+visual+features+without+supervision&btnG=)
+4. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+DINOv3&btnG=)
 5. [2024 arXiv] **SAM 2: Segment Anything in Images and Videos** [[paper]](https://arxiv.org/pdf/2408.00714) [[code]](https://github.com/facebookresearch/sam2)
 6. [2025 arXiv] **SAM3: SegmentAnythingwithConcepts** [[paper]](https://arxiv.org/pdf/2511.16719) [[code]](https://github.com/facebookresearch/sam3)
 
