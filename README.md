@@ -237,8 +237,9 @@
 2. [2021 ICCV] **DINO: Emerging Properties in Self-Supervised Vision Transformers** [[paper]](https://arxiv.org/pdf/2104.14294) [[code]](https://github.com/facebookresearch/dino)
 3. [2024 TMLR] **DINOv2: Learning robust visual features without supervision** [[paper]](https://arxiv.org/pdf/2304.07193) [[code]](https://github.com/facebookresearch/dinov2) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+DINOv2%3A+Learning+robust+visual+features+without+supervision&btnG=)
 4. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+DINOv3&btnG=)
-5. [2024 arXiv] **SAM 2: Segment Anything in Images and Videos** [[paper]](https://arxiv.org/pdf/2408.00714) [[code]](https://github.com/facebookresearch/sam2)
-6. [2025 arXiv] **SAM3: SegmentAnythingwithConcepts** [[paper]](https://arxiv.org/pdf/2511.16719) [[code]](https://github.com/facebookresearch/sam3)
+5. [2023 ICCV] **SAM: Segment anything** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=segment+anything&oq=Segment+a)
+6. [2024 arXiv] **SAM2: Segment Anything in Images and Videos** [[paper]](https://arxiv.org/pdf/2408.00714) [[code]](https://github.com/facebookresearch/sam2)
+7. [2025 arXiv] **SAM3: SegmentAnythingwithConcepts** [[paper]](https://arxiv.org/pdf/2511.16719) [[code]](https://github.com/facebookresearch/sam3)
 
 # Dataset
 1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive). Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages. Conversion codes applied to names in datasets can be found in [[MaskCLIP]](https://github.com/chongzhou96/MaskCLIP/tree/master/tools/convert_datasets).
