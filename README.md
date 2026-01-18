@@ -233,7 +233,7 @@
 
 # Foundation models in Segmentation and Classification
 <a name="Foundation_models"></a>
-1. [2021 ICML] **CLIP: Learning Transferable Visual Models From Natural Language Supervision** [[paper]](https://arxiv.org/pdf/2103.00020) [[code]](https://github.com/openai/CLIP)
+1. [2021 ICML] **CLIP: Learning Transferable Visual Models From Natural Language Supervision** [[paper]](https://arxiv.org/pdf/2103.00020) [[code]](https://github.com/openai/CLIP) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Learning+Transferable+Visual+Models+From+Natural+Language+Supervision&btnG=)
 2. [2021 ICCV] **DINO: Emerging Properties in Self-Supervised Vision Transformers** [[paper]](https://arxiv.org/pdf/2104.14294) [[code]](https://github.com/facebookresearch/dino)
 3. [2024 TMLR] **DINOv2: Learning robust visual features without supervision** [[paper]](https://arxiv.org/pdf/2304.07193) [[code]](https://github.com/facebookresearch/dinov2) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+DINOv2%3A+Learning+robust+visual+features+without+supervision&btnG=)
 4. [2025 arXiv] **DINOv3** [[paper]](https://arxiv.org/pdf/2508.10104) [[code]](https://github.com/facebookresearch/dinov3) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+DINOv3&btnG=)
