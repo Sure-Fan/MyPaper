@@ -222,7 +222,8 @@
 11. [2025 ICCV] **Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models** [[paper]](https://arxiv.org/pdf/2508.01225) [[code]](https://github.com/CenturyChen/MCP)
 12. [2025 ICLR] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[paper]](https://openreview.net/pdf?id=V3zobHnS61) [[code]](https://github.com/kaist-dmlab/RA-TTA)
 13. [2025 TMLR] **Memory-Modular Classification: Learning to Generalize with Memory Replacement** [[paper]](https://openreview.net/pdf?id=DcIW0idrg8) [[code]](https://github.com/dahyun-kang/mml)
-14. [2025 arXiv] **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment** [[paper]](https://arxiv.org/pdf/2508.15568) [[code]](https://github.com/AIM-SKKU/ADAPT)
+14. [2025 arXiv] **Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment** [[paper]](https://arxiv.org/pdf/2508.15568) [[[code]](](https://openreview.net/pdf?id=KvEjv5klWi)https://github.com/AIM-SKKU/ADAPT)
+15. [2026 ICLR] **Locality-attending vision transformer** [[paper]](https://openreview.net/pdf?id=KvEjv5klWi) [[[code]](https://anonymous.4open.science/r/LocAtViTRepo/)
 
 # Diffusion Model
 <a name="Diffusion_Model"></a>
