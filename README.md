@@ -137,7 +137,7 @@
 21. [2024 CVPR] **SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2401.11719) [[code]](https://github.com/Barrett-python/SFC)
 22. [2024 CVPR] **PSDPM:Prototype-based Secondary Discriminative Pixels Mining for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_PSDPM_Prototype-based_Secondary_Discriminative_Pixels_Mining_for_Weakly_Supervised_Semantic_CVPR_2024_paper.pdf) [[code]](https://github.com/xinqiaozhao/PSDPM)
 23. [2024 ECCV] **DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2409.15801)
-24. [2024 ECCV] **CoSa:Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2402.17891) [[code]](https://github.com/youshyee/CoSA)
+24. [2024 ECCV] **CoSa: Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2402.17891) [[code]](https://github.com/youshyee/CoSA)
 25. [2024 AAAI] **Progressive Feature Self-Reinforcement for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2312.08916) [[code]](https://github.com/Jessie459/feature-self-reinforcement)
 26. [2024 arXiv] **A Realistic Protocol for Evaluation of Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2404.10034) [[code]](https://github.com/shakeebmurtaza/wsol_model_selection)
 27. [2024 IEEE] **SSC: Spatial Structure Constraints for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2401.11122) [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC)
