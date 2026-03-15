@@ -154,7 +154,7 @@
 38. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
 39. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
 40. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
-41. [2026 ICLR] **Locality-Attending Vision Transformer** [[paper]](https://openreview.net/pdf?id=KvEjv5klWi) [[code]](https://github.com/sinahmr/LocAtViT/) [[gppgle]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Locality-Attending+Vision+Transformer&btnG=)
+41. [2026 ICLR] **Locality-Attending Vision Transformer** [[paper]](https://openreview.net/pdf?id=KvEjv5klWi) [[code]](https://github.com/sinahmr/LocAtViT/) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Locality-Attending+Vision+Transformer&btnG=)
 # Semi-Supervised Semantic Segmentation
 <a name="Semi-Supervised_Semantic_Segmentation"></a>
 1. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction** [[paper]](https://arxiv.org/pdf/2507.15803) [[code]](https://github.com/xinqi-fan/TT-RAA)
