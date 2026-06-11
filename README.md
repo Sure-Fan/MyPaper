@@ -159,7 +159,7 @@
 41. [2026 ICLR] **Locality-Attending Vision Transformer** [[paper]](https://openreview.net/pdf?id=KvEjv5klWi) [[code]](https://github.com/sinahmr/LocAtViT/) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Locality-Attending+Vision+Transformer&btnG=)
 # Semi-Supervised Semantic Segmentation
 <a name="Semi-Supervised_Semantic_Segmentation"></a>
-1. [2024 CVPR] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
+1. [2024 CVPR] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2306.04300) [[code]](https://github.com/BBBBchan/CorrMatch)
 2. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction** [[paper]](https://arxiv.org/pdf/2507.15803) [[code]](https://github.com/xinqi-fan/TT-RAA)
 # Unsupervised Semantic Segmentation
 <a name="Unsupervised_Semantic_Segmentation"></a>
