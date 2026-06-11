@@ -130,7 +130,6 @@
 11. [2023 NIPS] **Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2310.19001) [[code]](https://github.com/Ferenas/PGSeg?tab=readme-ov-file)
 12. [2023 arXiv] **MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2308.03005) [[code]](https://github.com/xulianuwa/MCTformer)
 13. [2024 CVPR] **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2406.11189v1) [[code]](https://github.com/zbf1991/WeCLIP)
-14. [2024 CVPR] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
 15. [2024 CVPR] **DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2403.11184) [[code]](https://github.com/Wu0409/DuPL)
 16. [2024 CVPR] **Hunting Attributes: Context Prototype-Aware Learning for Weakly Supervised Semantic Segmentation** [[paper]](https:https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Hunting_Attributes_Context_Prototype-Aware_Learning_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) [[code]](https://github.com/Barrett-python/CPAL)
 17. [2024 CVPR] **Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Improving_the_Generalization_of_Segmentation_Foundation_Model_under_Distribution_Shift_CVPR_2024_paper.pdf)
@@ -160,7 +159,8 @@
 41. [2026 ICLR] **Locality-Attending Vision Transformer** [[paper]](https://openreview.net/pdf?id=KvEjv5klWi) [[code]](https://github.com/sinahmr/LocAtViT/) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Locality-Attending+Vision+Transformer&btnG=)
 # Semi-Supervised Semantic Segmentation
 <a name="Semi-Supervised_Semantic_Segmentation"></a>
-1. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction** [[paper]](https://arxiv.org/pdf/2507.15803) [[code]](https://github.com/xinqi-fan/TT-RAA)
+1. [2024 CVPR] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.13147v1) [[code]](https://github.com/ZiqinZhou66/ZegCLIP?tab=readme-ov-file)
+2. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction** [[paper]](https://arxiv.org/pdf/2507.15803) [[code]](https://github.com/xinqi-fan/TT-RAA)
 # Unsupervised Semantic Segmentation
 <a name="Unsupervised_Semantic_Segmentation"></a>
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
