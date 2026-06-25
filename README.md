@@ -156,7 +156,6 @@
 38. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
 39. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
 40. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
-41. [2026 ICLR] **Locality-Attending Vision Transformer** [[paper]](https://openreview.net/pdf?id=KvEjv5klWi) [[code]](https://github.com/sinahmr/LocAtViT/) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Locality-Attending+Vision+Transformer&btnG=)
 # Semi-Supervised Semantic Segmentation
 <a name="Semi-Supervised_Semantic_Segmentation"></a>
 1. [2024 CVPR] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2306.04300) [[code]](https://github.com/BBBBchan/CorrMatch)
@@ -245,6 +244,7 @@
 5. [2023 ICCV] **SAM: Segment anything** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=segment+anything&oq=Segment+a)
 6. [2024 arXiv] **SAM2: Segment Anything in Images and Videos** [[paper]](https://arxiv.org/pdf/2408.00714) [[code]](https://github.com/facebookresearch/sam2)
 7. [2025 arXiv] **SAM3: SegmentAnythingwithConcepts** [[paper]](https://arxiv.org/pdf/2511.16719) [[code]](https://github.com/facebookresearch/sam3)
+8. [2026 ICLR] **Locality-Attending Vision Transformer** [[paper]](https://openreview.net/pdf?id=KvEjv5klWi) [[code]](https://github.com/sinahmr/LocAtViT/) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Locality-Attending+Vision+Transformer&btnG=)
 
 # Dataset
 1. **VOC**, **ADE20K**, **Context**, **COCO**, **DRIVE** and et al [[download]](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html#drive). Note: You maybe also need helpful [[html]](https://docs.wand-py.org/en/latest/guide/install.html) to install other packages. Conversion codes applied to names in datasets can be found in [[MaskCLIP]](https://github.com/chongzhou96/MaskCLIP/tree/master/tools/convert_datasets).
