@@ -156,6 +156,7 @@
 38. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
 39. [2025 arXiv] **TeD-Loc: Text Distillation for Weakly Supervised Object Localization** [[paper]](https://arXiv.org/pdf/2501.12632) [[code]](https://github.com/shakeebmurtaza/TeDLOC)
 40. [2025 arXiv] **Image Augmentation Agent for Weakly Supervised Semantic Segmentation** [[paper]](https://arXiv.org/pdf/2412.20439)
+41. [2026 TIP] **DiCLIP: Diffusion Model Enhances CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2605.04593) [[code]](https://github.com/zwyang6/DiCLIP)
 # Semi-Supervised Semantic Segmentation
 <a name="Semi-Supervised_Semantic_Segmentation"></a>
 1. [2024 CVPR] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2306.04300) [[code]](https://github.com/BBBBchan/CorrMatch)
