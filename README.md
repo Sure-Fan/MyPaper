@@ -175,6 +175,7 @@
 10. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 11. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
 12. [2025 ICCV] **DIP: Unsupervised Dense In-Context Post-training of Visual Representations** [[paper]](https://arxiv.org/pdf/2506.18463) [[code]](https://github.com/sirkosophia/DIP)
+13. [2026 TIP] **DEPMATCH: Boosting Semi-Supervised Semantic Segmentation by Exploring Depth Difference Knowledge** [[paper]](https://ieeexplore.ieee.org/abstract/document/11455591/) [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/DepMatch)
 
 # 3D Segmentation
 <a name="3D"></a>
