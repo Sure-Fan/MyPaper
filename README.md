@@ -161,6 +161,7 @@
 <a name="Semi-Supervised_Semantic_Segmentation"></a>
 1. [2024 CVPR] **CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2306.04300) [[code]](https://github.com/BBBBchan/CorrMatch)
 2. [2025 ICCV] **ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction** [[paper]](https://arxiv.org/pdf/2507.15803) [[code]](https://github.com/xinqi-fan/TT-RAA)
+3. [2026 TIP] **DEPMATCH: Boosting Semi-Supervised Semantic Segmentation by Exploring Depth Difference Knowledge** [[paper]](https://ieeexplore.ieee.org/abstract/document/11455591/) [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/DepMatch)
 # Unsupervised Semantic Segmentation
 <a name="Unsupervised_Semantic_Segmentation"></a>
 1. [2021 ICCV] **Emerging Properties in Self-Supervised Vision Transformers** [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf) [[code]](https://github.com/facebookresearch/dino) [[note]](https://blog.csdn.net/YoooooL_/article/details/129234966)
@@ -175,7 +176,6 @@
 10. [2024 ECCV] **Unsupervised Dense Prediction using Differentiable Normalized Cuts** [[paper]](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05675.pdf)
 11. [2024 NIPS] **PaintSeg: Training-free Segmentation via Painting** [[paper]](https://arxiv.org/abs/2305.19406)
 12. [2025 ICCV] **DIP: Unsupervised Dense In-Context Post-training of Visual Representations** [[paper]](https://arxiv.org/pdf/2506.18463) [[code]](https://github.com/sirkosophia/DIP)
-13. [2026 TIP] **DEPMATCH: Boosting Semi-Supervised Semantic Segmentation by Exploring Depth Difference Knowledge** [[paper]](https://ieeexplore.ieee.org/abstract/document/11455591/) [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/DepMatch)
 
 # 3D Segmentation
 <a name="3D"></a>
