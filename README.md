@@ -36,12 +36,10 @@
 15. [2025 CVPR] **Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sidhu_Search_and_Detect_Training-Free_Long_Tail_Object_Detection_via_Web-Image_CVPR_2025_paper.pdf) [[code]](https://github.com/Mankeerat/SearchDet)
 16. [2025 CVPR] **Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection** [[paper]]([https://github.com/xiaohainku/EASE](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.pdf)) [[code]](https://github.com/xiaohainku/EASE)
 17. [2025 ICCV] **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scene** [[paper]](https://arxiv.org/pdf/2410.14462#page=17.85) [[code]](https://github.com/naver/ludvig)
-18. [2025 ICCV] **WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images** [[paper]](https://arxiv.org/pdf/2503.08407)
 19. [2025 ICCV] **Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2411.09219) [[code]](https://github.com/YuHengsss/Trident)
 20. [2025 ICCV] **E-SAM: Training-Free Segment Every Entity Model** [[paper]](https://arxiv.org/pdf/2503.12094)
 21. [2025 ICCV] **ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation** [[paper]](https://arxiv.org/pdf/2506.21233) [[code]](https://github.com/xiweix/ReME)
 22. [2025 ICCV] **CorrCLIP: Reconstructing Patch Correlations in CLIP for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2411.10086) [[code]](https://github.com/zdk258/CorrCLIP)
-23. [2025 ICCV] **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** [[paper]](https://arxiv.org/pdf/2505.20469) [[code]](https://epsilontl.github.io/CCL-LGS/)
 24. [2025 ICCV] **Auto-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2312.04539)
 25. [2025 ICCV] **Understanding Personal Concept in Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2507.11030)
 26. [2025 ICCV] **Training-Free Class Purification for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2508.00557)
@@ -180,7 +178,9 @@
 # 3D Segmentation
 <a name="3D"></a>
 1. [2025 CVPR] **Vggt: Visual geometry grounded transformer** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf) [[code]](https://github.com/facebookresearch/vggt) [[google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Vggt%3A+Visual+geometry+grounded+transformer&btnG=) [[video]](https://www.bilibili.com/video/BV1UyunzLE4J/?spm_id_from=333.337.search-card.all.click&vd_source=68b963749fcc2e6dfd103676fb26daaf) [[note]](https://blog.csdn.net/qq_64508960/article/details/148398634)
-2. [2025 arXiv] **Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2606.22076) [[code]](https://github.com/chenjiahongbq/LCVSP/tree/main)
+2. [2025 ICCV] **WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images** [[paper]](https://arxiv.org/pdf/2503.08407)
+3. [2025 ICCV] **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** [[paper]](https://arxiv.org/pdf/2505.20469) [[code]](https://epsilontl.github.io/CCL-LGS/)
+4. [2026 arXiv] **Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2606.22076) [[code]](https://github.com/chenjiahongbq/LCVSP/tree/main)
 
 # Open-Vocabulary Object Detection
 <a name="Open-Vocabulary_Object_Detection"></a>
